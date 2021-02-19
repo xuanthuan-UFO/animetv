@@ -1,11 +1,9 @@
 package comm.xuanthuan.watchanime.Fragment
 
-import android.app.Fragment
 import android.os.AsyncTask
 import android.os.Bundle
 import android.transition.Visibility
 import android.util.Log
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -23,7 +21,7 @@ import kotlinx.android.synthetic.main.fragment__episodes0501.*
 import kotlinx.android.synthetic.main.fragment__genre3012.*
 import org.jsoup.Jsoup
 
-class Fragment_Genre3012 : Fragment() {
+class Fragment_Genre3012 : androidx.fragment.app.Fragment() {
     var list: ArrayList<Object_Anime3012> = ArrayList<Object_Anime3012>()
     var adapter: Adapter_itemHome3012? = null
     var rclGenre: LoadMoreRecyclerView3012? = null
