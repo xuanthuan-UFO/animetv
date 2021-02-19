@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item android:id="@+id/menu_home" android:title="Home" android:icon="@drawable/ic_baseline_home_24"></item>-->
+<!--    <item android:id="@+id/menu_anime_list" android:title="Anime List" android:icon="@drawable/ic_baseline_storage_24"></item>-->
+<!--    <item android:id="@+id/menu_new_season" android:title="New Season" android:icon="@drawable/ic_baseline_local_activity_24"></item>-->
+<!--    <item android:id="@+id/menu_movie" android:title="Movie" android:icon="@drawable/ic_baseline_movie_24"></item>-->
+<!--    <item android:id="@+id/menu_popular" android:title="Popular" android:icon="@drawable/ic_baseline_star_24"></item>-->
+<!--    <item android:id="@+id/menu_genre" android:title="Genre" android:icon="@drawable/ic_baseline_view_agenda_24"></item>-->
+<!--    <item android:id="@+id/menu_recent" android:title="Recent" android:icon="@drawable/ic_baseline_access_time_24"></item>-->
+<!--    <item android:id="@+id/menu_favourite" android:title="Favourite" android:icon="@drawable/ic_baseline_favorite_24"></item>-->
+
+</menu>

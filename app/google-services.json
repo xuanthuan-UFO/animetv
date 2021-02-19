@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "314305439933",
+    "firebase_url": "https://animevideo-b2a30.firebaseio.com",
+    "project_id": "animevideo-b2a30",
+    "storage_bucket": "animevideo-b2a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314305439933:android:44f02defe3c5c3089dafd4",
+        "android_client_info": {
+          "package_name": "comm.xuanthuan.animetv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314305439933-j6s0e4nev25ud57sf0mb6avvs28uf2m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArkR7WltT855GtAjxLEfqZr74PnfjqL-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314305439933-j6s0e4nev25ud57sf0mb6avvs28uf2m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314305439933:android:f735ae6ef5d776989dafd4",
+        "android_client_info": {
+          "package_name": "comm.xuanthuan.mangareader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314305439933-j6s0e4nev25ud57sf0mb6avvs28uf2m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArkR7WltT855GtAjxLEfqZr74PnfjqL-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314305439933-j6s0e4nev25ud57sf0mb6avvs28uf2m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314305439933:android:5a999e5f1321c7ed9dafd4",
+        "android_client_info": {
+          "package_name": "comm.xuanthuan.watchanime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314305439933-j6s0e4nev25ud57sf0mb6avvs28uf2m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArkR7WltT855GtAjxLEfqZr74PnfjqL-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314305439933-j6s0e4nev25ud57sf0mb6avvs28uf2m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

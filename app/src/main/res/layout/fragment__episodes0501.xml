@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:background="#111111"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Fragment.Fragment_Episodes0501">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <com.google.android.flexbox.FlexboxLayout
+                    android:layout_marginTop="5dp"
+                    android:id="@+id/flexbox_chap_detail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:alignContent="flex_start"
+                    app:alignItems="flex_start"
+                    app:flexDirection="row"
+                    app:flexWrap="wrap">
+                </com.google.android.flexbox.FlexboxLayout>
+
+                <comm.xuanthuan.watchanime.Object.ExpandableHeightGridView
+                    android:horizontalSpacing="10dp"
+                    android:verticalSpacing="5dp"
+                    android:listSelector="@drawable/custom_btn0701"
+                    android:stretchMode="columnWidth"
+                    android:isScrollContainer="false"
+                    android:numColumns="3"
+                    android:id="@+id/gv_episodes"
+                    android:layout_marginTop="10dp"
+                    android:layout_below="@id/flexbox_chap_detail"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"></comm.xuanthuan.watchanime.Object.ExpandableHeightGridView>
+            </RelativeLayout>
+        </ScrollView>
+
+        <ProgressBar
+            android:indeterminateTint="@color/colormain"
+            android:layout_centerInParent="true"
+            android:id="@+id/progress_episodes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        </ProgressBar>
+    </RelativeLayout>
+</FrameLayout>

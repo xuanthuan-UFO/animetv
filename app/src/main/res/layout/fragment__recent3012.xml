@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:background="#000"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.Fragment_Recent3012">
+
+    <comm.xuanthuan.watchanime.Object.LoadMoreRecyclerView3012
+        android:padding="10dp"
+        android:id="@+id/rcl_recent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></comm.xuanthuan.watchanime.Object.LoadMoreRecyclerView3012>
+
+    <RelativeLayout
+        android:background="#000"
+        android:id="@+id/container_recent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ProgressBar
+            android:indeterminateTint="@color/colormain"
+            android:visibility="visible"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></ProgressBar>
+    </RelativeLayout>
+
+</FrameLayout>

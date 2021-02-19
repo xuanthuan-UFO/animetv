@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:fitsSystemWindows="true"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#111111"
+    android:orientation="vertical"
+    tools:context=".Activity.ActivityDownLoad1101">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <androidx.appcompat.widget.Toolbar
+            app:navigationIcon="@drawable/ic_baseline_arrow_back_24"
+            android:id="@+id/toolbar_download"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="#FFF"
+                android:layout_gravity="center"
+                android:text="DownLoad"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></TextView>
+        </androidx.appcompat.widget.Toolbar>
+        <TextView
+            android:text="File name: "
+            android:id="@+id/fileName_down"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:textColor="#FFF"></TextView>
+
+        <TextView
+            android:text="Size: "
+            android:id="@+id/size_down"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:textColor="#FFF"></TextView>
+
+        <TextView
+            android:text="Duration: "
+            android:id="@+id/duration_down"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:textColor="#FFF"></TextView>
+
+        <TextView
+            android:text="Res: "
+            android:id="@+id/res_down"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:textColor="#FFF"></TextView>
+
+        <View
+            android:layout_marginTop="20dp"
+            android:background="#FFF"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"></View>
+
+        <TextView
+            android:textColor="#ffc119"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:text="Note: Open link download choose browser not video player"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </TextView>
+
+        <ListView
+            android:layout_marginTop="10dp"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:id="@+id/lv_Download"
+            android:layout_height="match_parent"></ListView>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/container_download_progess"
+        android:visibility="visible"
+        android:background="#000000"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ProgressBar
+            android:indeterminateTint="@color/colormain"
+            android:visibility="visible"
+            android:id="@+id/progess_down_load"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></ProgressBar>
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>

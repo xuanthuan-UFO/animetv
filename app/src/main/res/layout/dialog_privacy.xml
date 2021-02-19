@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txt_policydialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Privacy"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:textStyle="bold"></TextView>
+
+    <RelativeLayout
+        android:layout_below="@+id/txt_policydialog"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:layout_above="@id/confrim_privacy"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="16sp"
+                android:id="@+id/txt_policy"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"></TextView>
+
+        </ScrollView>
+
+        <TextView
+            android:textStyle="bold"
+            android:id="@+id/confrim_privacy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            android:padding="10dp"
+            android:text="OK"
+            android:textColor="#2196F3"></TextView>
+
+    </RelativeLayout>
+</RelativeLayout>

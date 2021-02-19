@@ -1,0 +1,1000 @@
+
+<!DOCTYPE html>
+<html lang="en-US"
+      xmlns="http://www.w3.org/1999/xhtml"
+      itemscope itemtype="http://schema.org/WebPage">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    <meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<link rel="shortcut icon" href="https://cdn.gogocdn.net/files/gogo/img/favicon.ico">
+<meta name="google-site-verification" content="shHYF9VOwfpFOdBpleH5jZ2CBuy6nVjX4PrkxMSRqHQ"/>
+
+<title>.hack//Sign (Dub) at Gogoanime</title>
+
+<meta name="robots" content="noodp, noydir" />
+<meta name="description" content="A young wavemaster, only known by the alias of Tsukasa, wakes up in an MMORPG called The World, with slight amnesia. He does not know what he has previously done before he woke up. In The World, he is suspected to be a hacker of the Crimson Knights,  ... at Gogoanime">
+<meta name="keywords" content=".hack//Sign (Dub),Watch .hack//Sign (Dub) English Sub">
+<meta itemprop="image" content="https://gogocdn.net/cover/hacksign-dub.jpg"/>
+
+<meta property="og:site_name" content="Gogoanime"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="website"/>
+<meta property="fb:admins" content="100010507416730"/>
+<meta property="fb:app_id" content="517001538491321" />
+<meta property="og:title" content=".hack//Sign (Dub) at Gogoanime"/>
+<meta property="og:description" content="A young wavemaster, only known by the alias of Tsukasa, wakes up in an MMORPG called The World, with slight amnesia. He does not know what he has previously done before he woke up. In The World, he is suspected to be a hacker of the Crimson Knights,  ... at Gogoanime">
+<meta property="og:url" content=""/>
+<meta property="og:image" content="https://gogocdn.net/cover/hacksign-dub.jpg"/>
+<meta property="og:image:secure_url" content="https://gogocdn.net/cover/hacksign-dub.jpg"/>
+
+<meta property="twitter:card" content="summary"/>
+<meta property="twitter:title" content=".hack//Sign (Dub) at Gogoanime"/>
+<meta property="twitter:description" content="A young wavemaster, only known by the alias of Tsukasa, wakes up in an MMORPG called The World, with slight amnesia. He does not know what he has previously done before he woke up. In The World, he is suspected to be a hacker of the Crimson Knights,  ... at Gogoanime"/>
+
+<meta name="csrf-token" content="60014e81ddeb8">
+
+<link rel="canonical" href="https://gogoanime.so/category/hacksign-dub"/>
+<link rel="alternate" hreflang="en-us" href="https://gogoanime.so/category/hacksign-dub"/>
+
+
+    
+        <link rel="stylesheet" type="text/css" href="https://gogoanime.so/css/style.css?v=2.8" />
+    
+        <script type="text/javascript" src="https://cdn.gogocdn.net/files/gogo/js/jquery.js"></script>
+    <script>
+        var base_url = 'https://' + document.domain + '/';
+        var base_url_cdn_api = 'https://ajax.gogocdn.net/';
+        var api_anclytic = 'https://ajax.gogocdn.net/anclytic-ajax.html';
+    </script>
+    <script type="text/javascript" src="https://cdn.gogocdn.net/files/gogo/js/main.js?v=2.8"></script>
+</head>
+<body>
+<div class="clr"></div>
+<div id="wrapper_inside">
+        <div id="wrapper">
+            <div id="wrapper_bg">
+                <header>
+  <div class="menu_top_link">
+    <div class="user_auth">
+      <ul class="auth">
+            <li class="user">
+        <i class="icongec-login"></i>
+        <a href="/login.html" title="login">Login</a> <a class="fix">|</a>
+        <a href="/register.html" title="Sign up" class="reg">Sign up</a>
+    </li>
+
+      </ul>
+    </div>
+    <div class="link_face intro">
+      <a class="btn twitter hidden-phone" href="https://twitter.com/anime_around" target="_blank" data-url=""></a>
+      <a class="btn reddit hidden-phone" href="https://www.reddit.com/r/AroundAnimeTV/" target="_blank" data-url=""></a>
+      <a class="btn facebook hidden-phone" href="https://www.facebook.com/groups/745264576247970/" target="_blank"></a>
+      <a class="btn discord hidden-phone" style="margin-right:5px;" href="https://discord.com/invite/XMGaBCm" target="_blank" data-url=""></a>
+    </div>
+                    
+    <div class="submenu_intro">
+	  <a href="https://discord.com/invite/XMGaBCm" target="_blank">Request</a>
+	  <span>|</span>
+      <a href="https://gogoanime.so/contact-us.html">Contact us</a>
+    </div>          
+  </div>
+  <div class="clr"></div>
+
+  <!-- banner -->
+  <section class="headnav">
+    <div class="page_menu_items show">
+      <a href="javascript:void(0)" class="menu_mobile">
+        <i class="icongec-menu-show"></i>
+      </a>
+    </div>
+    <div class="headnav_left">
+      <a href="/"><img src="https://gogoanime.so/img/icon/logo.png" class="logo show ads-evt" alt="gogoanime - Watch Anime Online" /></a>
+    </div>
+    <div class="headnav_menu">
+      <!-- menu top -->
+      <nav class="menu_top">
+        <ul>
+              <li class="user">
+        <i class="icongec-login"></i>
+        <a href="/login.html" title="login">Login</a> <a class="fix">|</a>
+        <a href="/register.html" title="Sign up" class="reg">Sign up</a>
+    </li>
+
+          <li class="home "><a href="https://gogoanime.so/" title="Home" class="home ads-evt">Home</a></li>
+          <li class="list "><a href="https://gogoanime.so/anime-list.html" title="Anime list" class="list ads-evt">Anime list</a></li>
+          <li class="seri "><a href="https://gogoanime.so/new-season.html" title="New season" class="series ads-evt">New season</a></li>
+          <li class="movies "><a href="https://gogoanime.so/anime-movies.html" title="Movies" class="movie ads-evt">Movies</a></li>
+          <li class="movies "><a href="https://gogoanime.so/popular.html" title="Popular" class="popular ads-evt">Popular</a></li>
+          <li class="movie genre hide">
+		    <a href="#" class="genre">Genre</a>
+            <ul>
+                              <li class=""><a href="/genre/action" title="Action">Action</a></li>
+                              <li class=""><a href="/genre/adventure" title="Adventure">Adventure</a></li>
+                              <li class=""><a href="/genre/cars" title="Cars">Cars</a></li>
+                              <li class=""><a href="/genre/comedy" title="Comedy">Comedy</a></li>
+                              <li class=""><a href="/genre/dementia" title="Dementia">Dementia</a></li>
+                              <li class=""><a href="/genre/demons" title="Demons">Demons</a></li>
+                              <li class=""><a href="/genre/drama" title="Drama">Drama</a></li>
+                              <li class=""><a href="/genre/dub" title="Dub">Dub</a></li>
+                              <li class=""><a href="/genre/ecchi" title="Ecchi">Ecchi</a></li>
+                              <li class=""><a href="/genre/fantasy" title="Fantasy">Fantasy</a></li>
+                              <li class=""><a href="/genre/game" title="Game">Game</a></li>
+                              <li class=""><a href="/genre/harem" title="Harem">Harem</a></li>
+                              <li class=""><a href="/genre/hentai" title="Hentai">Hentai</a></li>
+                              <li class=""><a href="/genre/historical" title="Historical">Historical</a></li>
+                              <li class=""><a href="/genre/horror" title="Horror">Horror</a></li>
+                              <li class=""><a href="/genre/josei" title="Josei">Josei</a></li>
+                              <li class=""><a href="/genre/kids" title="Kids">Kids</a></li>
+                              <li class=""><a href="/genre/magic" title="Magic">Magic</a></li>
+                              <li class=""><a href="/genre/martial-arts" title="Martial Arts">Martial Arts</a></li>
+                              <li class=""><a href="/genre/mecha" title="Mecha">Mecha</a></li>
+                              <li class=""><a href="/genre/military" title="Military">Military</a></li>
+                              <li class=""><a href="/genre/music" title="Music">Music</a></li>
+                              <li class=""><a href="/genre/mystery" title="Mystery">Mystery</a></li>
+                              <li class=""><a href="/genre/parody" title="Parody">Parody</a></li>
+                              <li class=""><a href="/genre/police" title="Police">Police</a></li>
+                              <li class=""><a href="/genre/psychological" title="Psychological">Psychological</a></li>
+                              <li class=""><a href="/genre/romance" title="Romance">Romance</a></li>
+                              <li class=""><a href="/genre/samurai" title="Samurai">Samurai</a></li>
+                              <li class=""><a href="/genre/school" title="School">School</a></li>
+                              <li class=""><a href="/genre/sci-fi" title="Sci-Fi">Sci-Fi</a></li>
+                              <li class=""><a href="/genre/seinen" title="Seinen">Seinen</a></li>
+                              <li class=""><a href="/genre/shoujo" title="Shoujo">Shoujo</a></li>
+                              <li class=""><a href="/genre/shoujo-ai" title="Shoujo Ai">Shoujo Ai</a></li>
+                              <li class=""><a href="/genre/shounen" title="Shounen">Shounen</a></li>
+                              <li class=""><a href="/genre/shounen-ai" title="Shounen Ai">Shounen Ai</a></li>
+                              <li class=""><a href="/genre/slice-of-life" title="Slice of Life">Slice of Life</a></li>
+                              <li class=""><a href="/genre/space" title="Space">Space</a></li>
+                              <li class=""><a href="/genre/sports" title="Sports">Sports</a></li>
+                              <li class=""><a href="/genre/super-power" title="Super Power">Super Power</a></li>
+                              <li class=""><a href="/genre/supernatural" title="Supernatural">Supernatural</a></li>
+                              <li class=""><a href="/genre/thriller" title="Thriller">Thriller</a></li>
+                              <li class=""><a href="/genre/vampire" title="Vampire">Vampire</a></li>
+                              <li class=""><a href="/genre/yaoi" title="Yaoi">Yaoi</a></li>
+                              <li class=""><a href="/genre/yuri" title="Yuri">Yuri</a></li>
+                          </ul>
+          </li>
+        </ul>	
+      </nav>
+      <!-- /menu top -->
+    </div>
+    <div class="headnav_right">
+      <!-- form search--->
+      <div class="form">
+        <form onsubmit="" id="search-form" action="https://gogoanime.so/search.html" method="get">
+          <div class="row">
+            <input placeholder="search" name="keyword" id="keyword" type="text" value="" autocomplete="off">            
+            <input class="btngui" value="" type="button" name="" onclick="do_search();">
+            <input id="key_pres" name="key_pres" value="" type="hidden" />
+            <input id="link_alias" name="link_alias" value="" type="hidden" />
+            <input id="keyword_search_replace" name="keyword_search_replace" value="" type="hidden" />
+          </div>
+          <div class="hide_search hide"><i class="icongec-muiten"></i></div>
+          <div id="header_search_autocomplete"></div>
+          <div class="loader"></div>
+        </form>           
+        <div class="clr"></div>
+        <div class="search-iph"><a href="javascript:void(0)"><i class="icongec-search-mb"></i></a></div>
+      </div>
+	  <div class="clr"></div>                        
+      <!-- /form search--->
+    </div>
+  </section>
+  <!-- /banner -->
+</header>
+                <section class="content">
+                    <section class="content_left">
+                        
+<div class="main_body">
+       <div class="anime_name anime_info">
+             <i class="icongec-anime_info i_pos"></i>
+             <h2>aNIME INFO</h2>            
+       </div>
+       <div class="anime_info_body">
+       		<div class="anime_info_body_bg">
+       		    <img src="https://gogocdn.net/cover/hacksign-dub.jpg">
+             	<h1>.hack//Sign (Dub)</h1>
+                <p><a class="bookmark bookmark-manage" href="javascript:void(0)"><i></i>Click to manage book marks</a></p>
+                <p class="type"><span>Type: </span>
+				    <a href="/sub-category/tv-series" title="TV Series">TV Series</a>
+				</p>
+                <p class="type"><span>Plot Summary: </span>A young wavemaster, only known by the alias of Tsukasa, wakes up in an MMORPG called The World, with slight amnesia. He does not know what he has previously done before he woke up. In The World, he is suspected to be a hacker of the Crimson Knights, as he was seen accompanying a tweaked character in the form of a cat. Unable to log out from the game, he wanders around looking for answers, avoiding the knights and other players he meets along the way.
+
+As Tsukasa explores The World, he stumbles upon a magical item that takes the form of a 'guardian', which promises him protection from all harm. Subaru, the leader of the Crimson Knights, along with several other players who became acquainted with Tsukasa, set out to investigate why Tsukasa is unable to log out, and attempt to get to the bottom of the problem before it gets out of hand.</p>
+                <p class="type"><span>Genre: </span>
+			         <a href="https://gogoanime.so/genre/adventure" title="Adventure">Adventure</a><a href="https://gogoanime.so/genre/fantasy" title="Fantasy">, Fantasy</a><a href="https://gogoanime.so/genre/magic" title="Magic">, Magic</a><a href="https://gogoanime.so/genre/mystery" title="Mystery">, Mystery</a><a href="https://gogoanime.so/genre/sci-fi" title="Sci-Fi">, Sci-Fi</a>				</p>
+                <p class="type"><span>Released: </span>2006</p>
+                <p class="type"><span>Status: </span>
+                                      <a href="/completed-anime.html" title="Completed Anime">Completed</a>
+                                  </p>
+				<p class="type"><span>Other name: </span>.hack//SIGN</p>
+            </div>
+            <div class="clr"></div>
+            <div class="anime_info_episodes">
+            	<h2>.hack//Sign (Dub)</h2>
+                <div class="anime_info_episodes_next">
+                	
+                    <input type="hidden" value="5052" id="movie_id" class="movie_id" />
+             		<input type="hidden" value="0" id="default_ep" class="default_ep" />
+                    <input type="hidden" value="hacksign-dub" id="alias_anime" class="alias_anime"/>
+                </div>
+            </div>
+            
+       </div>
+       <div class="anime_video_body" style="padding: 0 20px 20px 20px;" >
+                         <ul id="episode_page">
+                                                <li>
+                                <a href="#" class="active" ep_start = '0' ep_end = '28'>0-28</a>
+                            </li>
+                                    </ul>
+                <div class="clr"></div>
+                <div id="load_ep"></div>
+                <div class="clr"></div>
+<script>
+  var ep_start = $('#episode_page a.active').attr('ep_start');
+  var ep_end = $('#episode_page a.active').attr('ep_end');
+  var id = $("input#movie_id").val();
+  var default_ep = $("input#default_ep").val();
+  var alias = $("input#alias_anime").val();
+  loadListEpisode('#episode_page a.active',ep_start,ep_end,id,default_ep,alias);
+</script>
+       </div>
+       <div class="clr"></div>
+    <div id="M144314ScriptRootC834094"></div>
+    <script src="https://jsc.mgid.com/g/o/gogoanime.io.834094.js" �async></script>    <div class="clr"></div>
+       <div class="anime_info_body">
+            <script id="dsq-count-scr" src="//gogoanimetv.disqus.com/count.js" async></script>
+            <div class="anime_video_body_comment_name">
+                <div class="btm-center">
+                    <div id="specialButton" class="specialButton">
+                        <span class="txt">Show</span> <a href="http://gogoanime.io/category/hacksign-dub#disqus_thread">Comments </a>
+                    </div> 
+                </div>
+            </div>
+            	<div id="disqus_thread"></div>
+<script>
+     var disqus_config = function () {
+        this.page.url = 'http://gogoanime.io/category/hacksign-dub';
+     };
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        
+        s.src = '//gogoanimetv.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+        </div>
+</div>
+<div class="clr"></div>
+<div class="headnav_info">
+	</div>
+    <div class="login-popup modal-close">
+        <h2>Log in to Gogoanime</h2>
+
+        <a href="/login-google.html" class="btn-google">
+            <span><img src="https://gogoanime.so/img/google.png" alt="google" /></span>
+            Log in with Google
+        </a>
+
+        <form method='post'  action='/login.html' ><input type='hidden' name='_csrf' value='60014e81ddeb8' >        <input type='email' name='email'  placeholder='Email'  value=''>
+        <input type='password' name='password'  placeholder='Password' >
+        <input type='checkbox' name='remember'  value='1'> <span class="remember-me">Remember me</span><hr>
+        
+        <button type='submit' >Sign in</button>
+        <a class="link-forget" href="/forget.html">Forgot password?</a>
+
+        <a class="link-signup" href="/register.html">Sign up</a>
+        </form>    </div>
+
+                    </section>
+                     <section class="content_right">
+                                                <div class="headnav_center">
+                                <div class="anime_name adsverting">
+                                    <i class="icongec-adsverting i_pos"></i>
+                                    <h2>ADVERTISEMENTS</h2>
+                                </div>
+                                <div class="headnav_items">
+                                    <!-- BEGIN BEBI BANNER JS TAG -->
+<script type="text/javascript" data-cfasync="false">
+  if(!window.BB_a) { BB_a = [];} if(!window.BB_ind) { BB_ind = 0; } if(!window.BB_r) { BB_r = Math.floor(Math.random()*1000000000)} BB_ind++; BB_a.push({ "pl" : 41731, "index": BB_ind});
+</script>
+<script type="text/javascript" data-cfasync="false" src="//st.bebi.com/bebi_v3.js"></script>
+<!-- END TAG -->                                    <style>@media(min-width:480px){#mgiframe{width:100% !important;height:620px!important;max-width:300px;margin:auto;display: table;}} @media(max-width:480px){#mgiframe{width:100% !important;height:620px!important;}}</style>
+<iframe id="mgiframe" src="//mg.steepto.com/mghtml/framehtml/c/g/o/gogoanime.io.267364.html" width="100%" height="500" frameborder="0"></iframe>                                </div>
+                        </div>
+                        <div class="clr"></div>
+                                                    <div class="main_body">
+     <div class="main_body_black">
+          <div class="anime_name ongoing">
+              <i class="icongec-ongoing i_pos"></i><h2>RECENT RELEASE</h2>
+          </div>
+          <div class="recent">
+           <!-- begon -->
+          <div id="scrollbar2">
+          <div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div>
+            <div class="viewport">
+                 <div class="overview">
+               			<nav class="menu_recent">
+                                    <ul>
+                                    	                                        <li>
+                                        <a href="/xue-ying-ling-zhu-2nd-season-episode-8" title="Xue Ying Ling Zhu 2nd Season">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/xue-ying-ling-zhu-2nd-season.png');"></div>
+                               		     Xue Ying Ling Zhu 2nd Season                                        </a>
+                                    <a href="/xue-ying-ling-zhu-2nd-season-episode-8" title="Xue Ying Ling Zhu 2nd Season">
+                                     <p class="time_2">Episode 8</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/dubu-xiaoyao-episode-64" title="Dubu Xiaoyao">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/dubu-xiaoyao.png');"></div>
+                               		     Dubu Xiaoyao                                        </a>
+                                    <a href="/dubu-xiaoyao-episode-64" title="Dubu Xiaoyao">
+                                     <p class="time_2">Episode 64</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/chang-an-huan-jie-episode-8" title="Chang An Huan Jie">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/chang-an-huan-jie.png');"></div>
+                               		     Chang An Huan Jie                                        </a>
+                                    <a href="/chang-an-huan-jie-episode-8" title="Chang An Huan Jie">
+                                     <p class="time_2">Episode 8</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/jiu-ye-shen-chuan-episode-4" title="Jiu Ye Shen Chuan">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/jiu-ye-shen-chuan.png');"></div>
+                               		     Jiu Ye Shen Chuan                                        </a>
+                                    <a href="/jiu-ye-shen-chuan-episode-4" title="Jiu Ye Shen Chuan">
+                                     <p class="time_2">Episode 4</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/animation-kapibara-san-episode-14" title="Animation Kapibara-san">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/animation-kapibara-san.png');"></div>
+                               		     Animation Kapibara-san                                        </a>
+                                    <a href="/animation-kapibara-san-episode-14" title="Animation Kapibara-san">
+                                     <p class="time_2">Episode 14</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/mewkledreamy-episode-36" title="Mewkledreamy">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/mewkledreamy.png');"></div>
+                               		     Mewkledreamy                                        </a>
+                                    <a href="/mewkledreamy-episode-36" title="Mewkledreamy">
+                                     <p class="time_2">Episode 36</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/5-toubun-no-hanayome-2-episode-2" title="5-toubun no Hanayome 2">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/5-toubun-no-hanayome-2.png');"></div>
+                               		     5-toubun no Hanayome 2                                        </a>
+                                    <a href="/5-toubun-no-hanayome-2-episode-2" title="5-toubun no Hanayome 2">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/baka-to-test-to-shoukanjuu-mondai-christmas-ni-tsuite-kotae-nasai-episode-1" title="Baka to Test to Shoukanjuu: Mondai - Christmas ni Tsuite Kotae Nasai">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/baka-to-test-to-shoukanjuu-mondai-christmas-ni-tsuite-kotae-nasai.png');"></div>
+                               		     Baka to Test to Shoukanjuu: Mondai - Christmas ni Tsuite Kotae Nasai                                        </a>
+                                    <a href="/baka-to-test-to-shoukanjuu-mondai-christmas-ni-tsuite-kotae-nasai-episode-1" title="Baka to Test to Shoukanjuu: Mondai - Christmas ni Tsuite Kotae Nasai">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/dokyuu-hentai-hxeros-uncensored-episode-8" title="Dokyuu Hentai HxEros (Uncensored)">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/dokyuu-hentai-hxeros-uncensored.png');"></div>
+                               		     Dokyuu Hentai HxEros (Uncensored)                                        </a>
+                                    <a href="/dokyuu-hentai-hxeros-uncensored-episode-8" title="Dokyuu Hentai HxEros (Uncensored)">
+                                     <p class="time_2">Episode 8</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/yakusoku-no-neverland-2nd-season-episode-2" title="Yakusoku no Neverland 2nd Season">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/yakusoku-no-neverland-2nd-season.png');"></div>
+                               		     Yakusoku no Neverland 2nd Season                                        </a>
+                                    <a href="/yakusoku-no-neverland-2nd-season-episode-2" title="Yakusoku no Neverland 2nd Season">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/idaten-jump-episode-1" title="Idaten Jump">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/idaten-jump.png');"></div>
+                               		     Idaten Jump                                        </a>
+                                    <a href="/idaten-jump-episode-1" title="Idaten Jump">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/2-43-seiin-koukou-danshi-volley-bu-episode-2" title="2.43: Seiin Koukou Danshi Volley-bu">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/2-43-seiin-koukou-danshi-volley-bu.png');"></div>
+                               		     2.43: Seiin Koukou Danshi Volley-bu                                        </a>
+                                    <a href="/2-43-seiin-koukou-danshi-volley-bu-episode-2" title="2.43: Seiin Koukou Danshi Volley-bu">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/hataraku-saibou-black-tv-episode-2" title="Hataraku Saibou Black (TV)">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/hataraku-saibou-black-tv.png');"></div>
+                               		     Hataraku Saibou Black (TV)                                        </a>
+                                    <a href="/hataraku-saibou-black-tv-episode-2" title="Hataraku Saibou Black (TV)">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/hataraku-saibou-2-episode-2" title="Hataraku Saibou!!">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/hataraku-saibou.png');"></div>
+                               		     Hataraku Saibou!!                                        </a>
+                                    <a href="/hataraku-saibou-2-episode-2" title="Hataraku Saibou!!">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/tenchi-souzou-design-bu-episode-2" title="Tenchi Souzou Design-bu">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/tenchi-souzou-design-bu.png');"></div>
+                               		     Tenchi Souzou Design-bu                                        </a>
+                                    <a href="/tenchi-souzou-design-bu-episode-2" title="Tenchi Souzou Design-bu">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/higurashi-no-naku-koro-ni-2020-episode-15" title="Higurashi no Naku Koro ni (2020)">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/higurashi-no-naku-koro-ni-2020.png');"></div>
+                               		     Higurashi no Naku Koro ni (2020)                                        </a>
+                                    <a href="/higurashi-no-naku-koro-ni-2020-episode-15" title="Higurashi no Naku Koro ni (2020)">
+                                     <p class="time_2">Episode 15</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/gebaude-baude-episode-10" title="Gebäude Bäude">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/gebaude-baude.png');"></div>
+                               		     Gebäude Bäude                                        </a>
+                                    <a href="/gebaude-baude-episode-10" title="Gebäude Bäude">
+                                     <p class="time_2">Episode 10</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/yuru-camp-season-2-episode-2" title="Yuru Camp△ Season 2">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/yuru-camp-season-2.png');"></div>
+                               		     Yuru Camp△ Season 2                                        </a>
+                                    <a href="/yuru-camp-season-2-episode-2" title="Yuru Camp△ Season 2">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/dr-stone-stone-wars-episode-1" title="Dr. Stone: Stone Wars">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/dr-stone-stone-wars.png');"></div>
+                               		     Dr. Stone: Stone Wars                                        </a>
+                                    <a href="/dr-stone-stone-wars-episode-1" title="Dr. Stone: Stone Wars">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/doraemon-movie-40-nobita-no-shin-kyouryuu-episode-1" title="Doraemon Movie 40: Nobita no Shin Kyouryuu">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/doraemon-movie-40-nobita-no-shin-kyouryuu.png');"></div>
+                               		     Doraemon Movie 40: Nobita no Shin Kyouryuu                                        </a>
+                                    <a href="/doraemon-movie-40-nobita-no-shin-kyouryuu-episode-1" title="Doraemon Movie 40: Nobita no Shin Kyouryuu">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/kaifuku-jutsushi-no-yarinaoshi-uncensored-episode-1" title="Kaifuku Jutsushi no Yarinaoshi (Uncensored)">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/kaifuku-jutsushi-no-yarinaoshi-uncensored.png');"></div>
+                               		     Kaifuku Jutsushi no Yarinaoshi (Uncensored)                                        </a>
+                                    <a href="/kaifuku-jutsushi-no-yarinaoshi-uncensored-episode-1" title="Kaifuku Jutsushi no Yarinaoshi (Uncensored)">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/nils-no-fushigi-na-tabi-episode-26" title="Nils no Fushigi na Tabi">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/nils-no-fushigi-na-tabi.png');"></div>
+                               		     Nils no Fushigi na Tabi                                        </a>
+                                    <a href="/nils-no-fushigi-na-tabi-episode-26" title="Nils no Fushigi na Tabi">
+                                     <p class="time_2">Episode 26</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/show-by-rock-stars-episode-2" title="Show by Rock!! Stars!!">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/show-by-rock-stars.png');"></div>
+                               		     Show by Rock!! Stars!!                                        </a>
+                                    <a href="/show-by-rock-stars-episode-2" title="Show by Rock!! Stars!!">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/red-baron-episode-35" title="Red Baron">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/red-baron.png');"></div>
+                               		     Red Baron                                        </a>
+                                    <a href="/red-baron-episode-35" title="Red Baron">
+                                     <p class="time_2">Episode 35</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/wan-jie-xian-zong-4th-season-episode-38" title="Wan Jie Xian Zong 4th Season">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/wan-jie-xian-zong-4th-season.png');"></div>
+                               		     Wan Jie Xian Zong 4th Season                                        </a>
+                                    <a href="/wan-jie-xian-zong-4th-season-episode-38" title="Wan Jie Xian Zong 4th Season">
+                                     <p class="time_2">Episode 38</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/peerless-martial-spirit-episode-27" title="Peerless Martial Spirit">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/peerless-martial-spirit.png');"></div>
+                               		     Peerless Martial Spirit                                        </a>
+                                    <a href="/peerless-martial-spirit-episode-27" title="Peerless Martial Spirit">
+                                     <p class="time_2">Episode 27</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/xing-hai-qi-shi-episode-4" title="Xing Hai Qi Shi">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/xing-hai-qi-shi.png');"></div>
+                               		     Xing Hai Qi Shi                                        </a>
+                                    <a href="/xing-hai-qi-shi-episode-4" title="Xing Hai Qi Shi">
+                                     <p class="time_2">Episode 4</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/tian-huang-zhan-shen-episode-20" title="Tian Huang Zhan Shen">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/tian-huang-zhan-shen.png');"></div>
+                               		     Tian Huang Zhan Shen                                        </a>
+                                    <a href="/tian-huang-zhan-shen-episode-20" title="Tian Huang Zhan Shen">
+                                     <p class="time_2">Episode 20</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/abciee-shuugyou-nikki-episode-2" title="Abciee Shuugyou Nikki">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/abciee-shuugyou-nikki.png');"></div>
+                               		     Abciee Shuugyou Nikki                                        </a>
+                                    <a href="/abciee-shuugyou-nikki-episode-2" title="Abciee Shuugyou Nikki">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/hortensia-saga-tv-episode-2" title="Hortensia Saga (TV)">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/hortensia-saga-tv.png');"></div>
+                               		     Hortensia Saga (TV)                                        </a>
+                                    <a href="/hortensia-saga-tv-episode-2" title="Hortensia Saga (TV)">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/soukou-musume-senki-episode-2" title="Soukou Musume Senki">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/soukou-musume-senki.png');"></div>
+                               		     Soukou Musume Senki                                        </a>
+                                    <a href="/soukou-musume-senki-episode-2" title="Soukou Musume Senki">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/ichu-halfway-through-the-idol-episode-2" title="I★Chu: Halfway Through the Idol">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/ichu-halfway-through-the-idol.png');"></div>
+                               		     I★Chu: Halfway Through the Idol                                        </a>
+                                    <a href="/ichu-halfway-through-the-idol-episode-2" title="I★Chu: Halfway Through the Idol">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/nanatsu-no-taizai-fundo-no-shinpan-episode-1" title="Nanatsu no Taizai: Fundo no Shinpan">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/nanatsu-no-taizai-fundo-no-shinpan.png');"></div>
+                               		     Nanatsu no Taizai: Fundo no Shinpan                                        </a>
+                                    <a href="/nanatsu-no-taizai-fundo-no-shinpan-episode-1" title="Nanatsu no Taizai: Fundo no Shinpan">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/kaifuku-jutsushi-no-yarinaoshi-episode-1" title="Kaifuku Jutsushi no Yarinaoshi">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/kaifuku-jutsushi-no-yarinaoshi.png');"></div>
+                               		     Kaifuku Jutsushi no Yarinaoshi                                        </a>
+                                    <a href="/kaifuku-jutsushi-no-yarinaoshi-episode-1" title="Kaifuku Jutsushi no Yarinaoshi">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/rezero-kara-hajimeru-isekai-seikatsu-2nd-season-part-2-episode-2" title="Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/rezero-kara-hajimeru-isekai-seikatsu-2nd-season-part-2.png');"></div>
+                               		     Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2                                        </a>
+                                    <a href="/rezero-kara-hajimeru-isekai-seikatsu-2nd-season-part-2-episode-2" title="Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/log-horizon-entaku-houkai-episode-1" title="Log Horizon: Entaku Houkai">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/log-horizon-entaku-houkai.png');"></div>
+                               		     Log Horizon: Entaku Houkai                                        </a>
+                                    <a href="/log-horizon-entaku-houkai-episode-1" title="Log Horizon: Entaku Houkai">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/captain-tsubasa-episode-128" title="Captain Tsubasa">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/captain-tsubasa.png');"></div>
+                               		     Captain Tsubasa                                        </a>
+                                    <a href="/captain-tsubasa-episode-128" title="Captain Tsubasa">
+                                     <p class="time_2">Episode 128</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/aikatsu-planet-episode-1" title="Aikatsu Planet!">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/aikatsu-planet.png');"></div>
+                               		     Aikatsu Planet!                                        </a>
+                                    <a href="/aikatsu-planet-episode-1" title="Aikatsu Planet!">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/wu-shen-zhu-zai-episode-92" title="Wu Shen Zhu Zai">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/wu-shen-zhu-zai.png');"></div>
+                               		     Wu Shen Zhu Zai                                        </a>
+                                    <a href="/wu-shen-zhu-zai-episode-92" title="Wu Shen Zhu Zai">
+                                     <p class="time_2">Episode 92</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/digimon-adventure-20-shuunen-memorial-story-episode-5" title="Digimon Adventure: 20 Shuunen Memorial Story">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/digimon-adventure-20-shuunen-memorial-story.png');"></div>
+                               		     Digimon Adventure: 20 Shuunen Memorial Story                                        </a>
+                                    <a href="/digimon-adventure-20-shuunen-memorial-story-episode-5" title="Digimon Adventure: 20 Shuunen Memorial Story">
+                                     <p class="time_2">Episode 5</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/ling-jian-zun-episode-140" title="Ling Jian Zun">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/ling-jian-zun.png');"></div>
+                               		     Ling Jian Zun                                        </a>
+                                    <a href="/ling-jian-zun-episode-140" title="Ling Jian Zun">
+                                     <p class="time_2">Episode 140</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/qin-shi-ming-yue-canghai-hengliu-episode-16" title="Qin Shi Ming Yue : Canghai Hengliu">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/qin-shi-ming-yue-canghai-hengliu.png');"></div>
+                               		     Qin Shi Ming Yue : Canghai Hengliu                                        </a>
+                                    <a href="/qin-shi-ming-yue-canghai-hengliu-episode-16" title="Qin Shi Ming Yue : Canghai Hengliu">
+                                     <p class="time_2">Episode 16</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/bungou-stray-dogs-wan-episode-1" title="Bungou Stray Dogs Wan!">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/bungou-stray-dogs-wan.png');"></div>
+                               		     Bungou Stray Dogs Wan!                                        </a>
+                                    <a href="/bungou-stray-dogs-wan-episode-1" title="Bungou Stray Dogs Wan!">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/world-witches-hasshin-shimasu-episode-1" title="World Witches Hasshin Shimasu!">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/world-witches-hasshin-shimasu.png');"></div>
+                               		     World Witches Hasshin Shimasu!                                        </a>
+                                    <a href="/world-witches-hasshin-shimasu-episode-1" title="World Witches Hasshin Shimasu!">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/tensei-shitara-slime-datta-ken-2nd-season-episode-1" title="Tensei shitara Slime Datta Ken 2nd Season">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-2nd-season.png');"></div>
+                               		     Tensei shitara Slime Datta Ken 2nd Season                                        </a>
+                                    <a href="/tensei-shitara-slime-datta-ken-2nd-season-episode-1" title="Tensei shitara Slime Datta Ken 2nd Season">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/wonder-egg-priority-episode-1" title="Wonder Egg Priority">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/wonder-egg-priority.png');"></div>
+                               		     Wonder Egg Priority                                        </a>
+                                    <a href="/wonder-egg-priority-episode-1" title="Wonder Egg Priority">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/yatogame-chan-kansatsu-nikki-sansatsume-episode-1" title="Yatogame-chan Kansatsu Nikki Sansatsume">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/yatogame-chan-kansatsu-nikki-sansatsume.png');"></div>
+                               		     Yatogame-chan Kansatsu Nikki Sansatsume                                        </a>
+                                    <a href="/yatogame-chan-kansatsu-nikki-sansatsume-episode-1" title="Yatogame-chan Kansatsu Nikki Sansatsume">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/fox-spirit-matchmaker-episode-124" title="Fox Spirit Matchmaker">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/fox-spirit-matchmaker.png');"></div>
+                               		     Fox Spirit Matchmaker                                        </a>
+                                    <a href="/fox-spirit-matchmaker-episode-124" title="Fox Spirit Matchmaker">
+                                     <p class="time_2">Episode 124</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/gekidol-episode-2" title="Gekidol">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/gekidol.png');"></div>
+                               		     Gekidol                                        </a>
+                                    <a href="/gekidol-episode-2" title="Gekidol">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/black-clover-tv-episode-159" title="Black Clover (TV)">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/black-clover-tv.png');"></div>
+                               		     Black Clover (TV)                                        </a>
+                                    <a href="/black-clover-tv-episode-159" title="Black Clover (TV)">
+                                     <p class="time_2">Episode 159</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/shadowverse-tv-episode-38" title="Shadowverse (TV)">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/shadowverse-tv.png');"></div>
+                               		     Shadowverse (TV)                                        </a>
+                                    <a href="/shadowverse-tv-episode-38" title="Shadowverse (TV)">
+                                     <p class="time_2">Episode 38</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/pui-pui-molcar-episode-2" title="Pui Pui Molcar">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/pui-pui-molcar.png');"></div>
+                               		     Pui Pui Molcar                                        </a>
+                                    <a href="/pui-pui-molcar-episode-2" title="Pui Pui Molcar">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/kusoge-tte-iuna-animation-episode-12" title="Kusoge tte Iuna! Animation">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/kusoge-tte-iuna-animation.png');"></div>
+                               		     Kusoge tte Iuna! Animation                                        </a>
+                                    <a href="/kusoge-tte-iuna-animation-episode-12" title="Kusoge tte Iuna! Animation">
+                                     <p class="time_2">Episode 12</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/tomica-kizuna-gattai-earth-granner-episode-40" title="Tomica Kizuna Gattai: Earth Granner">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/tomica-kizuna-gattai-earth-granner.png');"></div>
+                               		     Tomica Kizuna Gattai: Earth Granner                                        </a>
+                                    <a href="/tomica-kizuna-gattai-earth-granner-episode-40" title="Tomica Kizuna Gattai: Earth Granner">
+                                     <p class="time_2">Episode 40</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/wan-jie-fa-shen-episode-9" title="Wan Jie Fa Shen">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/wan-jie-fa-shen.png');"></div>
+                               		     Wan Jie Fa Shen                                        </a>
+                                    <a href="/wan-jie-fa-shen-episode-9" title="Wan Jie Fa Shen">
+                                     <p class="time_2">Episode 9</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/wave-surfing-yappe-tv-episode-1" title="Wave!! Surfing Yappe!! (TV)">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/wave-surfing-yappe-tv.png');"></div>
+                               		     Wave!! Surfing Yappe!! (TV)                                        </a>
+                                    <a href="/wave-surfing-yappe-tv-episode-1" title="Wave!! Surfing Yappe!! (TV)">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/osomatsu-san-3rd-season-episode-14" title="Osomatsu-san 3rd Season">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/osomatsu-san-3rd-season.png');"></div>
+                               		     Osomatsu-san 3rd Season                                        </a>
+                                    <a href="/osomatsu-san-3rd-season-episode-14" title="Osomatsu-san 3rd Season">
+                                     <p class="time_2">Episode 14</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/azur-lane-bisoku-zenshin-episode-1" title="Azur Lane: Bisoku Zenshin!">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/azur-lane-bisoku-zenshin.png');"></div>
+                               		     Azur Lane: Bisoku Zenshin!                                        </a>
+                                    <a href="/azur-lane-bisoku-zenshin-episode-1" title="Azur Lane: Bisoku Zenshin!">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/shin-chuuka-ichiban-2nd-season-episode-1" title="Shin Chuuka Ichiban! 2nd Season">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/shin-chuuka-ichiban-2nd-season.png');"></div>
+                               		     Shin Chuuka Ichiban! 2nd Season                                        </a>
+                                    <a href="/shin-chuuka-ichiban-2nd-season-episode-1" title="Shin Chuuka Ichiban! 2nd Season">
+                                     <p class="time_2">Episode 1</p>
+                                     </a>
+                                       </li>
+                                                                                <li>
+                                        <a href="/uma-musume-pretty-derby-season-2-episode-2" title="Uma Musume: Pretty Derby Season 2">
+                                        <div class="thumbnail-recent" style="background: url('https://gogocdn.net/cover/uma-musume-pretty-derby-season-2.png');"></div>
+                               		     Uma Musume: Pretty Derby Season 2                                        </a>
+                                    <a href="/uma-musume-pretty-derby-season-2-episode-2" title="Uma Musume: Pretty Derby Season 2">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+                                                                            </ul>
+                                </nav>
+                 </div>
+            </div>
+        </div>	
+          <!-- tao thanh cuon 1-->  
+          </div>
+     </div>
+</div>
+<div class="clr"></div>
+<div id="load_ads_2">
+	<div id="media.net sticky ad" style="display: inline-block">
+         	</div>
+</div>
+<style type="text/css">
+	#load_ads_2{width: 300px;}
+	#load_ads_2.sticky{position:fixed;top: 0;}
+    #scrollbar2 .viewport { height: 1000px !important; }
+</style>
+<script>
+        var leftamt;
+        function scrollFunction() {
+            var scamt = (document.documentElement.scrollTop?document.documentElement.scrollTop:document.body.scrollTop);
+            var element = document.getElementById("media.net sticky ad");
+            if(scamt > leftamt){
+                var leftPosition = element.getBoundingClientRect().left;
+                element.className = element.className.replace( /(?:^|\s)fixclass(?!\S)/g , '' );
+                element.className += " fixclass";
+                element.style.left = leftPosition+'px';
+            }
+            else{
+                element.className = element.className.replace( /(?:^|\s)fixclass(?!\S)/g , '' );
+            }
+        }
+        function getElementTopLeft(id) {
+            var ele = document.getElementById(id);
+            var top = 0;
+            var left = 0;
+            while(ele.tagName != "BODY") {
+                top += ele.offsetTop;
+                left += ele.offsetLeft;
+                ele = ele.offsetParent;
+            }
+            return { top: top, left: left };
+        }
+        function abcd(){
+            TopLeft = getElementTopLeft("media.net sticky ad");
+            leftamt = TopLeft.top;
+//leftamt -= 10;
+        }
+        window.onload = abcd;
+        window.onscroll = scrollFunction;
+    </script>
+                                                <div class="main_body">
+  <div class="main_body_black">
+    <div class="anime_name new_series">
+      <i class="icongec-new_series i_pos"></i><h2>Season</h2>
+    </div>
+    <div class="series">
+      <div class="recent" style="padding:10px 0;">
+        <div class="viewport">
+          <div class="overview">
+            <nav class="menu_series cron">
+              <ul>
+                                  <li>
+          				  <span style="color:#898989;">Anime 2021:</span>
+                    <a style="display:inline;" href="/sub-category/spring-2021-anime" title="Spring 2021 Anime">Spring</a> |
+                    <a style="display:inline;" href="/sub-category/summer-2021-anime" title="Summer 2021 Anime">Summer</a> |
+          				  <a style="display:inline;" href="/sub-category/fall-2021-anime" title="Fall 2021 Anime">Fall</a> |
+                    <a style="display:inline;" href="/sub-category/winter-2021-anime" title="Winter 2021 Anime">Winter</a>
+          				</li>
+                                  <li>
+          				  <span style="color:#898989;">Anime 2020:</span>
+                    <a style="display:inline;" href="/sub-category/spring-2020-anime" title="Spring 2020 Anime">Spring</a> |
+                    <a style="display:inline;" href="/sub-category/summer-2020-anime" title="Summer 2020 Anime">Summer</a> |
+          				  <a style="display:inline;" href="/sub-category/fall-2020-anime" title="Fall 2020 Anime">Fall</a> |
+                    <a style="display:inline;" href="/sub-category/winter-2020-anime" title="Winter 2020 Anime">Winter</a>
+          				</li>
+                                  <li>
+          				  <span style="color:#898989;">Anime 2019:</span>
+                    <a style="display:inline;" href="/sub-category/spring-2019-anime" title="Spring 2019 Anime">Spring</a> |
+                    <a style="display:inline;" href="/sub-category/summer-2019-anime" title="Summer 2019 Anime">Summer</a> |
+          				  <a style="display:inline;" href="/sub-category/fall-2019-anime" title="Fall 2019 Anime">Fall</a> |
+                    <a style="display:inline;" href="/sub-category/winter-2019-anime" title="Winter 2019 Anime">Winter</a>
+          				</li>
+                                  <li>
+          				  <span style="color:#898989;">Anime 2018:</span>
+                    <a style="display:inline;" href="/sub-category/spring-2018-anime" title="Spring 2018 Anime">Spring</a> |
+                    <a style="display:inline;" href="/sub-category/summer-2018-anime" title="Summer 2018 Anime">Summer</a> |
+          				  <a style="display:inline;" href="/sub-category/fall-2018-anime" title="Fall 2018 Anime">Fall</a> |
+                    <a style="display:inline;" href="/sub-category/winter-2018-anime" title="Winter 2018 Anime">Winter</a>
+          				</li>
+                                  <li>
+          				  <span style="color:#898989;">Anime 2017:</span>
+                    <a style="display:inline;" href="/sub-category/spring-2017-anime" title="Spring 2017 Anime">Spring</a> |
+                    <a style="display:inline;" href="/sub-category/summer-2017-anime" title="Summer 2017 Anime">Summer</a> |
+          				  <a style="display:inline;" href="/sub-category/fall-2017-anime" title="Fall 2017 Anime">Fall</a> |
+                    <a style="display:inline;" href="/sub-category/winter-2017-anime" title="Winter 2017 Anime">Winter</a>
+          				</li>
+                                  <li>
+          				  <span style="color:#898989;">Anime 2016:</span>
+                    <a style="display:inline;" href="/sub-category/spring-2016-anime" title="Spring 2016 Anime">Spring</a> |
+                    <a style="display:inline;" href="/sub-category/summer-2016-anime" title="Summer 2016 Anime">Summer</a> |
+          				  <a style="display:inline;" href="/sub-category/fall-2016-anime" title="Fall 2016 Anime">Fall</a> |
+                    <a style="display:inline;" href="/sub-category/winter-2016-anime" title="Winter 2016 Anime">Winter</a>
+          				</li>
+                                  <li>
+          				  <span style="color:#898989;">Anime 2015:</span>
+                    <a style="display:inline;" href="/sub-category/spring-2015-anime" title="Spring 2015 Anime">Spring</a> |
+                    <a style="display:inline;" href="/sub-category/summer-2015-anime" title="Summer 2015 Anime">Summer</a> |
+          				  <a style="display:inline;" href="/sub-category/fall-2015-anime" title="Fall 2015 Anime">Fall</a> |
+                    <a style="display:inline;" href="/sub-category/winter-2015-anime" title="Winter 2015 Anime">Winter</a>
+          				</li>
+                                  <li>
+          				  <span style="color:#898989;">Anime 2014:</span>
+                    <a style="display:inline;" href="/sub-category/spring-2014-anime" title="Spring 2014 Anime">Spring</a> |
+                    <a style="display:inline;" href="/sub-category/summer-2014-anime" title="Summer 2014 Anime">Summer</a> |
+          				  <a style="display:inline;" href="/sub-category/fall-2014-anime" title="Fall 2014 Anime">Fall</a> |
+                    <a style="display:inline;" href="/sub-category/winter-2014-anime" title="Winter 2014 Anime">Winter</a>
+          				</li>
+                              </ul>
+            </nav>
+          </div>
+        </div>	
+      </div>
+    </div>
+  </div>
+</div>
+                     </section>                                                                              
+                </section>                
+                <div class="clr"></div>
+<footer>
+  <div class="menu_bottom">
+    <a href="/about-us.html"><h3>Abouts us</h3></a>
+    <a href="/contact-us.html"><h3>Contact us</h3></a>
+    <a href="/privacy.html"><h3>Privacy</h3></a>
+  </div>
+  <div class="croll">
+    <div class="big"><i class="icongec-backtop"></i></div>
+    <div class="small"><i class="icongec-backtop_mb"></i></div>
+  </div>
+</footer>
+            </div>
+        </div>
+</div>
+<div id="off_light"></div>
+<div class="clr"></div>
+<div class="mask"></div>
+<script type="text/javascript" src="https://cdn.gogocdn.net/files/gogo/js/combo.js?v=2.8"></script>
+<script type="text/javascript" src="https://cdn.gogocdn.net/files/gogo/js/crollvertical/js/jquery.tinyscrollbar.min.js?v=2.8"></script>
+<div class="notice-400" style=" z-index:99999;position: fixed;bottom: 0;text-align: center;width: 100%; left: 0;padding: 10px;background: #939393;color: white;">We moved site to <a href="https://gogoanime.so" title="Gogoanime" alt="Gogoanime" style="color: #ffc119">Gogoanime.so</a>. Please bookmark new site. Thank you!</div><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-101185934-10"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-101185934-10');
+</script>
+
+    <script>
+        var elm = '.bookmark';
+                    $(elm).click(function (e) {$(".mask").fadeIn();$('.login-popup').fadeIn();e.stopPropagation();e.preventDefault()});
+                
+    </script>
+
+<script>
+if(document.getElementById('scrollbar2')){
+    $('#scrollbar2').tinyscrollbar();
+}
+</script>
+<script type="text/javascript">
+    if(!window.BB_ind) { BB_ind = 0; }
+    if(!window.BB_r) { BB_r = Math.floor(Math.random()*1000000000)}
+    BB_ind++;
+    window.BB_skin = {
+        centerWidth: 1100,
+        centerDomId: '',
+        leftOffset: 0,
+        rightOffset: 0,
+        topPos: 0,
+        deferLoading: false,
+        fixed: true,
+        fixedStickTopOnScroll: false,
+        fixedScrollSecondaryTop: 0,
+        adjustSkinOnDynamicCenter: true,
+        zIndex: 0,
+        leftFrameId: '',
+        rightFrameId: '',
+        pl: 41600,
+        index: BB_ind
+    };
+</script>
+<script type="text/javascript" src="//st.bebi.com/bebi_v3.js"></script>
+</body>
+</html>
