@@ -71,8 +71,6 @@ class Adapter_itemHome3012(var list: List<Object_Anime3012>, var context: Fragme
                 context?.startActivity(intent)
             }
         }
-
-
     }
 
     private fun setAnimation(viewToAnimate: View, position: Int) {

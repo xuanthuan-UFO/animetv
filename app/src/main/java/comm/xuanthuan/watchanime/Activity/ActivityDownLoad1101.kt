@@ -6,6 +6,8 @@ import android.util.Log
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import com.facebook.ads.*
+import com.google.android.gms.ads.AdListener
+import com.google.android.gms.ads.AdRequest
 import com.loopj.android.http.AsyncHttpClient
 import com.loopj.android.http.TextHttpResponseHandler
 import comm.xuanthuan.watchanime.Adapter.Adapter_DownLoad1101
@@ -23,6 +25,12 @@ class ActivityDownLoad1101 : AppCompatActivity() {
     var interstitialAd: InterstitialAd? = null
     var idFan :String? = null
     var hrefDownLoad : String? = null
+    var idAdmob: String? = null
+    var checkAdmob: String? = null
+
+    var interstitialAd_gg: com.google.android.gms.ads.InterstitialAd =
+        com.google.android.gms.ads.InterstitialAd(this)
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_down_load1101)
@@ -33,6 +41,8 @@ class ActivityDownLoad1101 : AppCompatActivity() {
         val sharedPreferences = getSharedPreferences("Confix", MODE_PRIVATE)
         if (sharedPreferences.contains("domain")) {
             idFan = sharedPreferences.getString("idFan", "")
+            idAdmob = sharedPreferences.getString("idAdmob", "")
+            checkAdmob = sharedPreferences.getString("checkAdmob", "")
         }
 
         adapter = Adapter_DownLoad1101(list_download, this@ActivityDownLoad1101)
@@ -46,8 +56,47 @@ class ActivityDownLoad1101 : AppCompatActivity() {
         } catch (e: Exception) {
 
         }
-        addFb()
 
+        if (checkAdmob?.toInt() == 1) {
+            addFb()
+        } else {
+            ggAdmob()
+        }
+
+
+    }
+
+    fun ggAdmob() {
+        interstitialAd_gg.adUnitId = idAdmob
+        interstitialAd_gg.loadAd(AdRequest.Builder().build())
+        interstitialAd_gg.adListener = object : AdListener() {
+            override fun onAdLoaded() {
+                // Code to be executed when an ad finishes loading.
+                interstitialAd_gg.show()
+                load(hrefDownLoad.toString())
+            }
+
+            override fun onAdFailedToLoad(errorCode: Int) {
+                // Code to be executed when an ad request fails.
+                load(hrefDownLoad.toString())
+            }
+
+            override fun onAdOpened() {
+                // Code to be executed when the ad is displayed.
+            }
+
+            override fun onAdClicked() {
+                // Code to be executed when the user clicks on an ad.
+            }
+
+            override fun onAdLeftApplication() {
+                // Code to be executed when the user has left the app.
+            }
+
+            override fun onAdClosed() {
+                // Code to be executed when the interstitial ad is closed.
+            }
+        }
     }
 
     fun addFb() {
@@ -114,17 +163,17 @@ class ActivityDownLoad1101 : AppCompatActivity() {
                         val document = Jsoup.parse(responseString)
                         val fileName = document.getElementById("title").text()
                         val duration = document.getElementById("duration").text()
-                        fileName_down.text = "File Name: " + fileName
-                        duration_down.text = "Duration: " + duration
+                        fileName_down.text = resources.getString(R.string.FileName) + fileName
+                        duration_down.text = resources.getString(R.string.Duration) + duration
                         val elements = document.getElementsByClass("sumer_l")[0].getElementsByTag("li")
                         for (element in elements) {
                             val size = element.getElementsByTag("label").text()
                             if (size == "Size:") {
                                 val sizeMb = element.getElementById("filesize").text()
-                                size_down.text = "Size: " + sizeMb
+                                size_down.text = resources.getString(R.string.Size) + sizeMb
                             } else if (size == "Res:") {
                                 val sizeRes = element.getElementById("filesize").text()
-                                res_down.text = "Res: " + sizeRes
+                                res_down.text = resources.getString(R.string.Res) + sizeRes
                             }
                         }
 
@@ -178,17 +227,17 @@ class ActivityDownLoad1101 : AppCompatActivity() {
                 val document = Jsoup.parse(result)
                 val fileName = document.getElementById("title").text()
                 val duration = document.getElementById("duration").text()
-                fileName_down.text = "File Name: " + fileName
-                duration_down.text = "Duration: " + duration
+                fileName_down.text = resources.getString(R.string.FileName) + fileName
+                duration_down.text = resources.getString(R.string.Duration) + duration
                 val elements = document.getElementsByClass("sumer_l")[0].getElementsByTag("li")
                 for (element in elements) {
                     val size = element.getElementsByTag("label").text()
                     if (size == "Size:") {
                         val sizeMb = element.getElementById("filesize").text()
-                        size_down.text = "Size: " + sizeMb
+                        size_down.text = resources.getString(R.string.Size) + sizeMb
                     } else if (size == "Res:") {
                         val sizeRes = element.getElementById("filesize").text()
-                        res_down.text = "Res: " + sizeRes
+                        res_down.text =resources.getString(R.string.Res)+ sizeRes
                     }
                 }
 

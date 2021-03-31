@@ -10,6 +10,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.GridLayoutManager
+import androidx.recyclerview.widget.LinearLayoutManager
 import com.android.volley.Request
 import com.android.volley.Response
 import com.android.volley.VolleyError
@@ -90,6 +91,16 @@ class Fragment_Chinese0601 : Fragment() {
                 var released = li.getElementsByClass("released").text()
                 list.add(Object_Anime3012(name, img, href, released))
             }
+
+            if (intcheck == 3) {
+                try {
+                    list.addAll(list)
+                } catch (e: Exception) {
+
+                }
+
+            }
+
             progress_Chinese?.visibility = View.INVISIBLE
             try {
                 adapter?.notifyDataSetChanged()

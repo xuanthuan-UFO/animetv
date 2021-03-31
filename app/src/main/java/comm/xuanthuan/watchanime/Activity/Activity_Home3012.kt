@@ -35,6 +35,7 @@ class Activity_Home3012 : AppCompatActivity() {
     var indexgenre = 0
 
     var listGenre: ArrayList<String> = ArrayList()
+    var listGenre1: ArrayList<String> = ArrayList()
     var fmgenre = Fragment_Genre3012()
 
     var adapter: Adapter_Genre_Home0601? = null
@@ -108,27 +109,25 @@ class Activity_Home3012 : AppCompatActivity() {
                 }
             }
         } else {
-
         }
-
 
         val adapterViewpager: Adapter_ViewPager0501 =
             Adapter_ViewPager0501(supportFragmentManager, 0)
-        adapterViewpager.addFm(Fragment_Home3012(), "Home")
-        adapterViewpager.addFm(Fragment_Favourite3012(), "Favourite")
-        adapterViewpager.addFm(Fragment_Recent3012(), "Recent")
-        adapterViewpager.addFm(Fragment_AnimeList3012(), "Anime List")
-        adapterViewpager.addFm(Fragment_NewSeason3012(), "New Season")
-        adapterViewpager.addFm(Fragment_Movie3012(), "Movie")
-        adapterViewpager.addFm(Fragment_Popular3012(), "Popular")
-        adapterViewpager.addFm(fmgenre, "Genre")
+        adapterViewpager.addFm(Fragment_Home3012(), resources.getString(R.string.Home))
+        adapterViewpager.addFm(Fragment_Favourite3012(), resources.getString(R.string.Favourite))
+        adapterViewpager.addFm(Fragment_Recent3012(), resources.getString(R.string.Recent))
+        adapterViewpager.addFm(Fragment_AnimeList3012(), resources.getString(R.string.AnimeList))
+        adapterViewpager.addFm(Fragment_NewSeason3012(), resources.getString(R.string.NewSeason))
+        adapterViewpager.addFm(Fragment_Movie3012(), resources.getString(R.string.Movie))
+        adapterViewpager.addFm(Fragment_Popular3012(), resources.getString(R.string.Popular))
+        adapterViewpager.addFm(fmgenre, resources.getString(R.string.Genre))
         viewpager_activity_home.adapter = adapterViewpager
 
         viewpager_activity_home.setCurrentItem(0)
         viewpager_activity_home.offscreenPageLimit = 7
         viewpager_activity_home.setPagingEnabled(false)
 
-        txt.text = "Home"
+        txt.text = resources.getString(R.string.Home)
         init()
         loadGenre()
 
@@ -169,7 +168,7 @@ class Activity_Home3012 : AppCompatActivity() {
                 Log.d("zzz", "onClick: ")
                 viewpager_activity_home.setCurrentItem(0)
                 drawerlayout.closeDrawer(GravityCompat.START)
-                txt.text = "Home"
+                txt.text = resources.getString(R.string.Home)
             }
         })
 
@@ -178,7 +177,7 @@ class Activity_Home3012 : AppCompatActivity() {
                 Log.d("zzz", "onClick: ")
                 viewpager_activity_home.setCurrentItem(1)
                 drawerlayout.closeDrawer(GravityCompat.START)
-                txt.text = "Favourite"
+                txt.text = resources.getString(R.string.Favourite)
             }
         })
 
@@ -187,7 +186,7 @@ class Activity_Home3012 : AppCompatActivity() {
                 Log.d("zzz", "onClick: ")
                 viewpager_activity_home.setCurrentItem(2)
                 drawerlayout.closeDrawer(GravityCompat.START)
-                txt.text = "Recent"
+                txt.text = resources.getString(R.string.Recent)
             }
         })
 
@@ -196,14 +195,14 @@ class Activity_Home3012 : AppCompatActivity() {
                 Log.d("zzz", "onClick: ")
                 viewpager_activity_home.setCurrentItem(3)
                 drawerlayout.closeDrawer(GravityCompat.START)
-                txt.text = "Anime List"
+                txt.text = resources.getString(R.string.AnimeList)
             }
         })
         menu_new_season.setOnClickListener(object : View.OnClickListener {
             override fun onClick(v: View?) {
                 Log.d("zzz", "onClick: ")
                 viewpager_activity_home.setCurrentItem(4)
-                txt.text = "New Season"
+                txt.text = resources.getString(R.string.NewSeason)
                 drawerlayout.closeDrawer(GravityCompat.START)
             }
         })
@@ -212,7 +211,7 @@ class Activity_Home3012 : AppCompatActivity() {
                 Log.d("zzz", "onClick: ")
                 viewpager_activity_home.setCurrentItem(5)
                 drawerlayout.closeDrawer(GravityCompat.START)
-                txt.text = "Movie"
+                txt.text = resources.getString(R.string.Movie)
             }
         })
 
@@ -221,7 +220,7 @@ class Activity_Home3012 : AppCompatActivity() {
                 Log.d("zzz", "onClick: ")
                 viewpager_activity_home.setCurrentItem(6)
                 drawerlayout.closeDrawer(GravityCompat.START)
-                txt.text = "Popular"
+                txt.text = resources.getString(R.string.Popular)
             }
         })
 
@@ -277,6 +276,53 @@ class Activity_Home3012 : AppCompatActivity() {
         listGenre.add(resources.getString(R.string.Yaoi))
         listGenre.add(resources.getString(R.string.Yuri))
 
+
+
+
+        listGenre1.add(resources.getString(R.string.Action1))
+        listGenre1.add(resources.getString(R.string.Adventure1))
+        listGenre1.add(resources.getString(R.string.Cars1))
+        listGenre1.add(resources.getString(R.string.Comedy1))
+        listGenre1.add(resources.getString(R.string.Dementia1))
+        listGenre1.add(resources.getString(R.string.Demons1))
+        listGenre1.add(resources.getString(R.string.Drama1))
+        listGenre1.add(resources.getString(R.string.Dub1))
+        listGenre1.add(resources.getString(R.string.Ecchi1))
+        listGenre1.add(resources.getString(R.string.Fantasy1))
+        listGenre1.add(resources.getString(R.string.Game1))
+        listGenre1.add(resources.getString(R.string.Harem1))
+        listGenre1.add(resources.getString(R.string.Hentai1))
+        listGenre1.add(resources.getString(R.string.Historical1))
+        listGenre1.add(resources.getString(R.string.Horror1))
+        listGenre1.add(resources.getString(R.string.Kids1))
+        listGenre1.add(resources.getString(R.string.Magic1))
+        listGenre1.add(resources.getString(R.string.MartialArts1))
+        listGenre1.add(resources.getString(R.string.Mecha1))
+        listGenre1.add(resources.getString(R.string.Military1))
+        listGenre1.add(resources.getString(R.string.Music1))
+        listGenre1.add(resources.getString(R.string.Mystery1))
+        listGenre1.add(resources.getString(R.string.Parody1))
+        listGenre1.add(resources.getString(R.string.Police1))
+        listGenre1.add(resources.getString(R.string.Psychological1))
+        listGenre1.add(resources.getString(R.string.Romance1))
+        listGenre1.add(resources.getString(R.string.Samurai1))
+        listGenre1.add(resources.getString(R.string.School1))
+        listGenre1.add(resources.getString(R.string.SciFi1))
+        listGenre1.add(resources.getString(R.string.Seinen1))
+        listGenre1.add(resources.getString(R.string.Shoujo1))
+        listGenre1.add(resources.getString(R.string.ShoujoAi1))
+        listGenre1.add(resources.getString(R.string.Shounen1))
+        listGenre1.add(resources.getString(R.string.ShounenAi1))
+        listGenre1.add(resources.getString(R.string.SliceofLife1))
+        listGenre1.add(resources.getString(R.string.Space1))
+        listGenre1.add(resources.getString(R.string.Sports1))
+        listGenre1.add(resources.getString(R.string.SuperPower1))
+        listGenre1.add(resources.getString(R.string.Supernatural1))
+        listGenre1.add(resources.getString(R.string.Thriller1))
+        listGenre1.add(resources.getString(R.string.Vampire1))
+        listGenre1.add(resources.getString(R.string.Yaoi1))
+        listGenre1.add(resources.getString(R.string.Yuri1))
+
         adapter = Adapter_Genre_Home0601(listGenre, this@Activity_Home3012)
         gridView_Genre_home.setExpanded(true)
         gridView_Genre_home.adapter = adapter
@@ -301,7 +347,7 @@ class Activity_Home3012 : AppCompatActivity() {
                     fmgenre.adapter?.notifyDataSetChanged()
                 } catch (e: Exception) {
                 }
-                fmgenre.load(domainGenre.toString() + listGenre.get(position).toString().toLowerCase())
+                fmgenre.load(domainGenre.toString() + listGenre1.get(position).toString().toLowerCase())
                 drawerlayout.closeDrawer(GravityCompat.START)
                 txt.text = listGenre.get(position).toString()
             }

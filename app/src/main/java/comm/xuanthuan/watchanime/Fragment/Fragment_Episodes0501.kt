@@ -140,9 +140,9 @@ class Fragment_Episodes0501 : Fragment() {
 
     private fun dialog(position: Int) {
         val dialogStart = AlertDialog.Builder(activity!!)
-        dialogStart.setMessage("Open Youtube app to watch anime online ")
-        dialogStart.setNegativeButton("Cancel") { dialog, which -> dialog.dismiss() }
-        dialogStart.setPositiveButton("OPEN YOUTUBE") { dialog, which ->
+        dialogStart.setMessage(resources.getString(R.string.MessageOpenYoutube))
+        dialogStart.setNegativeButton(resources.getString(R.string.Cancel)) { dialog, which -> dialog.dismiss() }
+        dialogStart.setPositiveButton(resources.getString(R.string.OPENYOUTUBE)) { dialog, which ->
             try {
                 watchYoutubeVideo(HackSign[position])
             } catch (e: java.lang.Exception) {

@@ -25,7 +25,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:text="Favourite"
+                android:text="Home"
                 android:textColor="#FFF"></TextView>
 
         </androidx.appcompat.widget.Toolbar>
@@ -96,8 +96,8 @@
                             android:textSize="16sp"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="10dp"
-                            android:text="Search Anime"
+                            android:layout_marginLeft="20dp"
+                            android:text="@string/Search"
                             android:textColor="#FFF"></TextView>
 
                     </LinearLayout>
@@ -123,7 +123,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="20dp"
-                            android:text="Home"
+                            android:text="@string/Home"
                             android:textColor="#FFF"
                             android:textSize="16sp"></TextView>
 
@@ -150,7 +150,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="20dp"
-                            android:text="Favourite"
+                            android:text="@string/Favourite"
                             android:textColor="#FFF"
                             android:textSize="16sp"></TextView>
 
@@ -177,7 +177,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="20dp"
-                            android:text="Recent"
+                            android:text="@string/Recent"
                             android:textColor="#FFF"
                             android:textSize="16sp"></TextView>
 
@@ -204,7 +204,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="20dp"
-                            android:text="Anime List"
+                            android:text="@string/AnimeList"
                             android:textColor="#FFF"
                             android:textSize="16sp"></TextView>
 
@@ -231,7 +231,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="20dp"
-                            android:text="New Season"
+                            android:text="@string/NewSeason"
                             android:textColor="#FFF"
                             android:textSize="16sp"></TextView>
 
@@ -258,7 +258,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="20dp"
-                            android:text="Movie"
+                            android:text="@string/Movie"
                             android:textColor="#FFF"
                             android:textSize="16sp"></TextView>
 
@@ -285,7 +285,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="20dp"
-                            android:text="Popular"
+                            android:text="@string/Popular"
                             android:textColor="#FFF"
                             android:textSize="16sp"></TextView>
 
@@ -311,7 +311,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="20dp"
-                            android:text="Genre"
+                            android:text="@string/Genre"
                             android:textColor="#FFF"
                             android:textSize="16sp"></TextView>
 

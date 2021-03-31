@@ -27,9 +27,9 @@ class Fragment_Home3012 : Fragment() {
         val viewpager: ViewPager = view.findViewById(R.id.viewpager_home)
         val adapter: Adapter_ViewPager0501 =
             Adapter_ViewPager0501(activity!!.supportFragmentManager, 0)
-        adapter.addFm(Fragment_RecentRelease0601(), "RECENT RELEASE")
-        adapter.addFm(Fragment_Dub0601(), "DUB")
-        adapter.addFm(Fragment_Chinese0601(), "CHINESE")
+        adapter.addFm(Fragment_RecentRelease0601(), resources.getString(R.string.RECENTRELEASE))
+        adapter.addFm(Fragment_Dub0601(), resources.getString(R.string.DUB))
+        adapter.addFm(Fragment_Chinese0601(), resources.getString(R.string.CHINESE))
 
         viewpager.adapter = adapter
         tablayout.setupWithViewPager(viewpager)

@@ -23,12 +23,12 @@
             <TextView
                 android:textColor="#FFF"
                 android:layout_gravity="center"
-                android:text="DownLoad"
+                android:text="@string/DownLoad1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"></TextView>
         </androidx.appcompat.widget.Toolbar>
         <TextView
-            android:text="File name: "
+            android:text="@string/FileName"
             android:id="@+id/fileName_down"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -36,7 +36,7 @@
             android:textColor="#FFF"></TextView>
 
         <TextView
-            android:text="Size: "
+            android:text="@string/Size"
             android:id="@+id/size_down"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -44,7 +44,7 @@
             android:textColor="#FFF"></TextView>
 
         <TextView
-            android:text="Duration: "
+            android:text="@string/Duration"
             android:id="@+id/duration_down"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -52,7 +52,7 @@
             android:textColor="#FFF"></TextView>
 
         <TextView
-            android:text="Res: "
+            android:text="@string/Res"
             android:id="@+id/res_down"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -69,7 +69,7 @@
             android:textColor="#ffc119"
             android:textStyle="bold"
             android:textSize="16sp"
-            android:text="Note: Open link download choose browser not video player"
+            android:text="@string/Note"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
         </TextView>

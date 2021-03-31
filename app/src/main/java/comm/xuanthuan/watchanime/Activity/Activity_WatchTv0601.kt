@@ -14,6 +14,11 @@ import android.webkit.WebView
 import android.webkit.WebViewClient
 import androidx.appcompat.app.AppCompatActivity
 import com.facebook.ads.*
+import com.google.android.gms.ads.AdListener
+import com.google.android.gms.ads.AdRequest
+import com.google.android.gms.ads.AdView
+import com.google.android.gms.ads.MobileAds
+import com.google.android.gms.ads.RequestConfiguration
 import com.loopj.android.http.AsyncHttpClient
 import com.loopj.android.http.TextHttpResponseHandler
 import comm.xuanthuan.watchanime.Object.Object_Anime3012
@@ -24,16 +29,23 @@ import cz.msebera.android.httpclient.Header
 import kotlinx.android.synthetic.main.activity__watch_tv0601.*
 import kotlinx.android.synthetic.main.fragment__dub0601.*
 import org.jsoup.Jsoup
+import java.util.*
 
 class Activity_WatchTv0601 : AppCompatActivity() {
     var domain: String? = null
+    var checkAdmob: String? = null
     var webChromeClient: VideoEnabledWebChromeClient0601? = null
     var hrefDownload: String? = null
     var hrefVideo: String? = null
     var interstitialAd: InterstitialAd? = null
     var interstitialAd1: InterstitialAd? = null
     var idFan: String? = null
+    var idAdmob: String? = null
     var checkNumWatch = 0
+
+    var interstitialAd_gg: com.google.android.gms.ads.InterstitialAd =
+        com.google.android.gms.ads.InterstitialAd(this)
+    var interstitialAd_gg1: com.google.android.gms.ads.InterstitialAd? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -43,6 +55,8 @@ class Activity_WatchTv0601 : AppCompatActivity() {
         if (sharedPreferences.contains("domain")) {
             domain = sharedPreferences.getString("domain", "")
             idFan = sharedPreferences.getString("idFan", "")
+            checkAdmob = sharedPreferences.getString("checkAdmob", "")
+            idAdmob = sharedPreferences.getString("idAdmob", "")
         }
 
         try {
@@ -59,7 +73,11 @@ class Activity_WatchTv0601 : AppCompatActivity() {
             try {
                 checkNumWatch = sharedPreferencesNumWatch.getInt("num", 0)
                 if (checkNumWatch > 15) {
-                    addFb()
+                    if (checkAdmob?.toInt() == 1) {
+                        addFb()
+                    } else {
+                        ggAdmob()
+                    }
                 } else {
                     try {
                         loadtv(domain + hrefVideo?.substring(2))
@@ -77,8 +95,81 @@ class Activity_WatchTv0601 : AppCompatActivity() {
             }
         }
 
-        addFb1()
+        if (checkAdmob?.toInt() == 1) {
+            addFb1()
+        } else {
+            ggAdmob1()
+        }
         downLoad()
+    }
+
+    fun ggAdmob() {
+        interstitialAd_gg.adUnitId = idAdmob
+        interstitialAd_gg.loadAd(AdRequest.Builder().build())
+        interstitialAd_gg.adListener = object : AdListener() {
+            override fun onAdLoaded() {
+                // Code to be executed when an ad finishes loading.
+                interstitialAd_gg.show()
+                loadtv(domain + hrefVideo?.substring(2))
+            }
+
+            override fun onAdFailedToLoad(errorCode: Int) {
+                // Code to be executed when an ad request fails.
+                loadtv(domain + hrefVideo?.substring(2))
+            }
+
+            override fun onAdOpened() {
+                // Code to be executed when the ad is displayed.
+            }
+
+            override fun onAdClicked() {
+                // Code to be executed when the user clicks on an ad.
+            }
+
+            override fun onAdLeftApplication() {
+                // Code to be executed when the user has left the app.
+            }
+
+            override fun onAdClosed() {
+                // Code to be executed when the interstitial ad is closed.
+            }
+        }
+    }
+
+    fun ggAdmob1() {
+        interstitialAd_gg1 = com.google.android.gms.ads.InterstitialAd(this)
+        interstitialAd_gg1?.adUnitId = idAdmob
+        interstitialAd_gg1?.adListener = object : AdListener() {
+            override fun onAdLoaded() {
+                // Code to be executed when an ad finishes loading.
+                Log.d("zzz", "onAdLoaded: 1111111111")
+
+            }
+
+            override fun onAdFailedToLoad(errorCode: Int) {
+                // Code to be executed when an ad request fails.
+                Log.d("zzz", "onAdFailedToLoad: 11111111111111" + errorCode)
+
+            }
+
+            override fun onAdOpened() {
+                // Code to be executed when the ad is displayed.
+            }
+
+            override fun onAdClicked() {
+                // Code to be executed when the user clicks on an ad.
+            }
+
+            override fun onAdLeftApplication() {
+                // Code to be executed when the user has left the app.
+            }
+
+            override fun onAdClosed() {
+                // Code to be executed when the interstitial ad is closed.
+
+            }
+        }
+        interstitialAd_gg1?.loadAd(AdRequest.Builder().build())
     }
 
     fun addFb() {
@@ -298,6 +389,13 @@ class Activity_WatchTv0601 : AppCompatActivity() {
             interstitialAd1?.show()
         } catch (e: Exception) {
         }
+
+        try {
+            interstitialAd_gg1?.show()
+        } catch (e: Exception) {
+
+        }
+
         // Notify the VideoEnabledWebChromeClient, and handle it ourselves if it doesn't handle it
         try {
             if (!webChromeClient?.onBackPressed()!!) {
@@ -311,13 +409,6 @@ class Activity_WatchTv0601 : AppCompatActivity() {
         } catch (e: Exception) {
             super.onBackPressed()
         }
-    }
-
-    override fun onDestroy() {
-        if (interstitialAd != null) {
-            interstitialAd!!.destroy()
-        }
-        super.onDestroy()
     }
 
     inner class someTask() : AsyncTask<String, Void, String>() {

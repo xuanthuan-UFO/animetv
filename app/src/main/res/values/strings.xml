@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Anime Tv</string>
+    <string name="app_name">Anime Online</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="open">open</string>
-    <string name="close">close</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="open" translatable="false">open</string>
+    <string name="close" translatable="false">close</string>
     <string name="Action">Action</string>
     <string name="Adventure">Adventure</string>
     <string name="Cars">Cars</string>
@@ -48,31 +48,115 @@
     <string name="Yaoi">Yaoi</string>
     <string name="Yuri">Yuri</string>
 
-    <string name="A">A</string>
-    <string name="B">B</string>
-    <string name="C">C</string>
-    <string name="D">D</string>
-    <string name="E">E</string>
-    <string name="F">F</string>
-    <string name="G">G</string>
-    <string name="H">H</string>
-    <string name="I">I</string>
-    <string name="J">J</string>
-    <string name="K">K</string>
-    <string name="L">L</string>
-    <string name="M">M</string>
-    <string name="N">N</string>
-    <string name="O">O</string>
-    <string name="P">P</string>
-    <string name="Q">Q</string>
-    <string name="R">R</string>
-    <string name="S">S</string>
-    <string name="T">T</string>
-    <string name="U">U</string>
-    <string name="V">V</string>
-    <string name="W">W</string>
-    <string name="X">X</string>
-    <string name="Y">Y</string>
-    <string name="Z">Z</string>
+    <string name="A" translatable="false">A</string>
+    <string name="B" translatable="false">B</string>
+    <string name="C" translatable="false">C</string>
+    <string name="D" translatable="false">D</string>
+    <string name="E" translatable="false">E</string>
+    <string name="F" translatable="false">F</string>
+    <string name="G" translatable="false">G</string>
+    <string name="H" translatable="false">H</string>
+    <string name="I" translatable="false">I</string>
+    <string name="J" translatable="false">J</string>
+    <string name="K" translatable="false">K</string>
+    <string name="L" translatable="false">L</string>
+    <string name="M" translatable="false">M</string>
+    <string name="N" translatable="false">N</string>
+    <string name="O" translatable="false">O</string>
+    <string name="P" translatable="false">P</string>
+    <string name="Q" translatable="false">Q</string>
+    <string name="R" translatable="false">R</string>
+    <string name="S" translatable="false">S</string>
+    <string name="T" translatable="false">T</string>
+    <string name="U" translatable="false">U</string>
+    <string name="V" translatable="false">V</string>
+    <string name="W" translatable="false">W</string>
+    <string name="X" translatable="false">X</string>
+    <string name="Y" translatable="false">Y</string>
+    <string name="Z" translatable="false">Z</string>
+
+    <string name="Home">Home</string>
+    <string name="Favourite">Favourite</string>
+    <string name="Recent">Recent</string>
+    <string name="AnimeList">Anime List</string>
+    <string name="NewSeason">New Season</string>
+    <string name="Movie">Movie</string>
+    <string name="Popular">Popular</string>
+    <string name="Genre">Genre</string>
+
+    <string name="RECENTRELEASE">RECENT RELEASE</string>
+    <string name="DUB">DUB</string>
+    <string name="CHINESE">CHINESE</string>
+
+    <string name="Name">Name:</string>
+    <string name="Type">Type:</string>
+    <string name="Favorite">Favorite</string>
+    <string name="Summary">Summary</string>
+    <string name="Episode">Episode</string>
+
+    <string name="MessageOpenYoutube">Open Youtube app to watch anime online </string>
+    <string name="Cancel">Cancel</string>
+    <string name="Ok">OK</string>
+    <string name="Rating">Please rating 5 star support us!!! Please give us a good rating so that we have a higher rating on the GooglePlay</string>
+    <string name="OPENYOUTUBE">OPEN YOUTUBE</string>
+
+    <string name="Download">Download this episode </string>
+    <string name="FileName">File Name: </string>
+    <string name="Duration">Duration: </string>
+    <string name="Size">Size: </string>
+    <string name="Res">Res: </string>
+
+    <string name="DownLoad1">DownLoad</string>
+    <string name="Note">Note: Open link download choose browser not video player </string>
+
+    <string name="Search">Search</string>
+    <string name="Enternameanime">Enter name anime</string>
+
+    <string name="Action1" translatable="false">Action</string>
+    <string name="Adventure1" translatable="false">Adventure</string>
+    <string name="Cars1" translatable="false">Cars</string>
+    <string name="Comedy1" translatable="false">Comedy</string>
+    <string name="Dementia1" translatable="false">Dementia</string>
+    <string name="Demons1" translatable="false">Demons</string>
+    <string name="Drama1" translatable="false">Drama</string>
+    <string name="Dub1" translatable="false">Dub</string>
+    <string name="Ecchi1" translatable="false">Ecchi</string>
+    <string name="Fantasy1" translatable="false">Fantasy</string>
+    <string name="Game1" translatable="false">Game</string>
+    <string name="Harem1" translatable="false">Harem</string>
+    <string name="Hentai1" translatable="false">Hentai</string>
+    <string name="Historical1" translatable="false">Historical</string>
+    <string name="Horror1" translatable="false">Horror</string>
+    <string name="Kids1" translatable="false">Kids</string>
+    <string name="Magic1" translatable="false">Magic</string>
+    <string name="MartialArts1" translatable="false">Martial Arts</string>
+    <string name="Mecha1" translatable="false">Mecha</string>
+    <string name="Military1" translatable="false">Military</string>
+    <string name="Music1" translatable="false">Music</string>
+    <string name="Mystery1" translatable="false">Mystery</string>
+    <string name="Parody1" translatable="false">Parody</string>
+    <string name="Police1" translatable="false">Police</string>
+    <string name="Psychological1" translatable="false">Psychological</string>
+    <string name="Romance1" translatable="false">Romance</string>
+    <string name="Samurai1" translatable="false">Samurai</string>
+    <string name="School1" translatable="false">School</string>
+    <string name="SciFi1" translatable="false">Sci-Fi</string>
+    <string name="Seinen1" translatable="false">Seinen</string>
+    <string name="Shoujo1" translatable="false">Shoujo</string>
+    <string name="ShoujoAi1" translatable="false">Shoujo Ai</string>
+    <string name="Shounen1" translatable="false">Shounen</string>
+    <string name="ShounenAi1" translatable="false">Shounen Ai</string>
+    <string name="SliceofLife1" translatable="false">Slice of Life</string>
+    <string name="Space1" translatable="false">Space</string>
+    <string name="Sports1" translatable="false">Sports</string>
+    <string name="SuperPower1" translatable="false">Super Power</string>
+    <string name="Supernatural1" translatable="false">Supernatural</string>
+    <string name="Thriller1" translatable="false">Thriller</string>
+    <string name="Vampire1" translatable="false">Vampire</string>
+    <string name="Yaoi1" translatable="false">Yaoi</string>
+    <string name="Yuri1" translatable="false">Yuri</string>
+
+
+
 
 </resources>

@@ -13,6 +13,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.viewpager.widget.ViewPager
 import com.bumptech.glide.Glide
+import com.google.android.gms.ads.*
 import com.loopj.android.http.AsyncHttpClient
 import com.loopj.android.http.TextHttpResponseHandler
 import comm.xuanthuan.watchanime.Adapter.Adapter_ViewPager0501
@@ -31,6 +32,7 @@ import org.json.JSONObject
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import java.io.*
+import java.util.*
 
 class Activity_Detail0401 : AppCompatActivity() {
     var name: String = ""
@@ -52,6 +54,9 @@ class Activity_Detail0401 : AppCompatActivity() {
     val fmEpisodes = Fragment_Episodes0501()
     var objectWrite: JSONObject = JSONObject()
     var arrayWrite: JSONArray = JSONArray()
+
+    var interstitialAd_gg: com.google.android.gms.ads.InterstitialAd =
+        com.google.android.gms.ads.InterstitialAd(this)
 
     public var intcheck: Int? = null
 
@@ -122,9 +127,8 @@ class Activity_Detail0401 : AppCompatActivity() {
                 var item = intent.getSerializableExtra("dataAnimeList") as Object_AnimeList3112
                 name = item.name
                 hrefanime = item.href
-                txtDetail.text = "Name: " + name
+                txtDetail.text = resources.getString(R.string.Name) + " "+ name
                 txt_toolbar_Detail.text = name.toString()
-                //   Glide.with(this@Activity_Detail0401).load(item.img).into(img_detail)
                 loadAnimeList(domain + item.href.substring(1))
 
             }
@@ -135,14 +139,13 @@ class Activity_Detail0401 : AppCompatActivity() {
     }
 
     fun loadDemo(responseString: String) {
-        Log.d("zzz", "loadDemo: ")
          val document: Document = Jsoup.parse(responseString)
         try {
             typeAnime =
                     document.getElementsByClass("anime_info_body_bg").get(0)
                             .getElementsByTag("p")
                             .get(1).getElementsByTag("a").text()
-            txtDetailType.text = "Type: " + typeAnime
+            txtDetailType.text =  resources.getString(R.string.Type) + " " + typeAnime
         } catch (e: Exception) {
         }
 
@@ -165,7 +168,7 @@ class Activity_Detail0401 : AppCompatActivity() {
                 genre = genre.plus(", " + i.text())
             }
 
-            txtDetailGenre.text = "Genre: " + genre
+            txtDetailGenre.text = resources.getString(R.string.Genre) + " " + genre
         } catch (e: Exception) {
         }
 
@@ -215,7 +218,7 @@ class Activity_Detail0401 : AppCompatActivity() {
                             document.getElementsByClass("anime_info_body_bg").get(0)
                                 .getElementsByTag("p")
                                 .get(1).getElementsByTag("a").text()
-                        txtDetailType.text = "Type: " + typeAnime
+                        txtDetailType.text = resources.getString(R.string.Type) + " "  + typeAnime
                     } catch (e: Exception) {
                     }
 
@@ -239,7 +242,7 @@ class Activity_Detail0401 : AppCompatActivity() {
                             genre = genre.plus(", " + i.text())
                         }
 
-                        txtDetailGenre.text = "Genre: " + genre
+                        txtDetailGenre.text = resources.getString(R.string.Genre) + " "  + genre
                     } catch (e: Exception) {
                     }
 
@@ -317,7 +320,7 @@ class Activity_Detail0401 : AppCompatActivity() {
                             document.getElementsByClass("anime_info_body_bg").get(0)
                                 .getElementsByTag("p")
                                 .get(1).getElementsByTag("a").text()
-                        txtDetailType.text = "Type: " + typeAnime
+                        txtDetailType.text = resources.getString(R.string.Type) + " " + typeAnime
                     } catch (e: Exception) {
                     }
 
@@ -341,7 +344,7 @@ class Activity_Detail0401 : AppCompatActivity() {
                             genre = genre.plus(", " + i.text())
                         }
 
-                        txtDetailGenre.text = "Genre: " + genre
+                        txtDetailGenre.text = resources.getString(R.string.Genre) + " "  + genre
                     } catch (e: Exception) {
                     }
 
@@ -549,18 +552,18 @@ class Activity_Detail0401 : AppCompatActivity() {
 
     fun addFragment() {
         val adapterViewPager = Adapter_ViewPager0501(supportFragmentManager, 0)
-        adapterViewPager.addFm(fmSummary, "Summary")
-        adapterViewPager.addFm(fmEpisodes, "Episode")
+        adapterViewPager.addFm(fmSummary, resources.getString(R.string.Summary))
+        adapterViewPager.addFm(fmEpisodes, resources.getString(R.string.Episode))
         viewPager_detail.adapter = adapterViewPager
         radioGroup_detail.setOnCheckedChangeListener { group, checkedId ->
             when (checkedId) {
                 R.id.btn_Summary -> {
                     viewPager_detail.setCurrentItem(1)
-                    Log.d("zzz", "onCreate: 2")
+                  //  Log.d("zzz", "onCreate: 2")
                 }
                 R.id.btn_Episodes -> {
                     viewPager_detail.setCurrentItem(0)
-                    Log.d("zzz", "onCreate: 1")
+                  //  Log.d("zzz", "onCreate: 1")
                 }
 
             }
@@ -679,7 +682,7 @@ class Activity_Detail0401 : AppCompatActivity() {
                     document.getElementsByClass("anime_info_body_bg").get(0)
                         .getElementsByTag("p")
                         .get(1).getElementsByTag("a").text()
-                txtDetailType.text = "Type: " + typeAnime
+                txtDetailType.text = resources.getString(R.string.Type) + " " + typeAnime
             } catch (e: Exception) {
             }
 
@@ -703,7 +706,7 @@ class Activity_Detail0401 : AppCompatActivity() {
                     genre = genre.plus(", " + i.text())
                 }
 
-                txtDetailGenre.text = "Genre: " + genre
+                txtDetailGenre.text = resources.getString(R.string.Genre) + " " + genre
             } catch (e: Exception) {
             }
 
@@ -774,7 +777,7 @@ class Activity_Detail0401 : AppCompatActivity() {
                     document.getElementsByClass("anime_info_body_bg").get(0)
                         .getElementsByTag("p")
                         .get(1).getElementsByTag("a").text()
-                txtDetailType.text = "Type: " + typeAnime
+                txtDetailType.text = resources.getString(R.string.Type) + " " + typeAnime
             } catch (e: Exception) {
             }
 
@@ -798,7 +801,7 @@ class Activity_Detail0401 : AppCompatActivity() {
                     genre = genre.plus(", " + i.text())
                 }
 
-                txtDetailGenre.text = "Genre: " + genre
+                txtDetailGenre.text = resources.getString(R.string.Genre) + " " + genre
             } catch (e: Exception) {
             }
 

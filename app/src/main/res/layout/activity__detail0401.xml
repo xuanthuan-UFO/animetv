@@ -126,7 +126,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_centerVertical="true"
-                        android:text="Favorite"
+                        android:text="@string/Favourite"
                         android:textColor="#FFF"
                         android:textSize="16sp"></TextView>
 
@@ -173,7 +173,7 @@
                 android:button="@null"
                 android:checked="true"
                 android:gravity="center"
-                android:text="summary"
+                android:text="@string/Summary"
                 android:textAllCaps="true"
                 android:textColor="@drawable/custom_color_radiobutton"
                 android:textSize="12sp"></RadioButton>
@@ -187,7 +187,7 @@
                 android:button="@null"
                 android:checked="false"
                 android:gravity="center"
-                android:text="EPISODES"
+                android:text="@string/Episode"
                 android:textColor="@drawable/custom_color_radiobutton"
                 android:textSize="12sp"></RadioButton>
         </RadioGroup>

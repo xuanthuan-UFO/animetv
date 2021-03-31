@@ -80,6 +80,13 @@ class Fragment_NewSeason3012 : Fragment() {
                 list.add(Object_Anime3012(name, img, href, released))
             }
 
+            if ((activity as Activity_Home3012).intcheck == 3) {
+                try {
+                    list.addAll(list)
+                } catch (e: Exception) {
+
+                }
+            }
 
             try {
                 adapter?.notifyDataSetChanged()

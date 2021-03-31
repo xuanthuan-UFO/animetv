@@ -119,6 +119,14 @@ class Fragment_RecentRelease0601 : Fragment() {
                 var released = li.getElementsByClass("released").text()
                 list.add(Object_Anime3012(name, img, href, released))
             }
+            if (intcheck == 3) {
+                try {
+                    list.addAll(list)
+                } catch (e: Exception) {
+
+                }
+
+            }
             try {
                 progress_recentrelease?.visibility = View.INVISIBLE
                 adapter?.notifyDataSetChanged()

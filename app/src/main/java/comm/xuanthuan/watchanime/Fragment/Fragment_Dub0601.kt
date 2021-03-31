@@ -90,6 +90,16 @@ class Fragment_Dub0601 : Fragment() {
                 var released = li.getElementsByClass("released").text()
                 list.add(Object_Anime3012(name, img, href, released))
             }
+
+            if (intcheck == 3) {
+                try {
+                    list.addAll(list)
+                } catch (e: Exception) {
+
+                }
+
+            }
+
             progress_dub?.visibility = View.INVISIBLE
             try {
                 adapter?.notifyDataSetChanged()

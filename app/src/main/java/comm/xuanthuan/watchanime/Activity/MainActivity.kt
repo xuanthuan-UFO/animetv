@@ -21,7 +21,6 @@ import comm.xuanthuan.watchanime.R
 import javax.net.ssl.HttpsURLConnection
 import javax.net.ssl.SSLContext
 
-
 class MainActivity : AppCompatActivity() {
     val messageDialog: String? = null
 
@@ -170,6 +169,7 @@ fun loadStart() {
             try {
                 val domain: String = snapshot.child("domain").value.toString()
                 val check: String = snapshot.child("check").value.toString()
+                val checkAdmob: String = snapshot.child("checkAdmob").value.toString()
                 val domainNewSeason: String = snapshot.child("domainNewSeason").value.toString()
                 val domainMovie: String = snapshot.child("domainMovie").value.toString()
                 val domainPopular: String = snapshot.child("domainPopular").value.toString()
@@ -182,6 +182,7 @@ fun loadStart() {
                 val idFan: String = snapshot.child("idFan").value.toString()
                 val namePackage: String = snapshot.child("namePackage").value.toString()
                 val imgnamePackage: String = snapshot.child("imgnamePackage").value.toString()
+                val idAdmob: String = snapshot.child("idAdmob").value.toString()
 
                 val sharedPreferences: SharedPreferences = getSharedPreferences(
                         "Confix",
@@ -189,6 +190,7 @@ fun loadStart() {
                 )
                 sharedPreferences.edit().putString("domain", domain).apply()
                 sharedPreferences.edit().putString("check", check).apply()
+                sharedPreferences.edit().putString("checkAdmob", checkAdmob).apply()
                 sharedPreferences.edit().putString("domainNewSeason", domainNewSeason).apply()
                 sharedPreferences.edit().putString("domainMovie", domainMovie).apply()
                 sharedPreferences.edit().putString("domainPopular", domainPopular).apply()
@@ -201,6 +203,7 @@ fun loadStart() {
                 sharedPreferences.edit().putString("idFan", idFan).apply()
                 sharedPreferences.edit().putString("namePackage", namePackage).apply()
                 sharedPreferences.edit().putString("imgnamePackage", imgnamePackage).apply()
+                sharedPreferences.edit().putString("idAdmob", idAdmob).apply()
 
                 Log.d("zzz", "onDataChange: " + domain + check)
                 if (check.toInt() == 1) {

@@ -46,8 +46,7 @@ class Fragment_Genre3012 : androidx.fragment.app.Fragment() {
                 if (page < 7) {
                     page++
                     try {
-                        load((activity as Activity_Home3012).domainGenre.toString() + (activity as Activity_Home3012).listGenre.get((activity as Activity_Home3012).indexgenre).toString().toLowerCase() + "?page=" +page )
-
+                        load((activity as Activity_Home3012).domainGenre.toString() + (activity as Activity_Home3012).listGenre1.get((activity as Activity_Home3012).indexgenre).toString().toLowerCase() + "?page=" +page )
                     } catch (e: Exception) {
 
                     }
@@ -80,6 +79,15 @@ class Fragment_Genre3012 : androidx.fragment.app.Fragment() {
                     Log.d("zzz", "onSuccess: " + e.message)
                 }
             }
+
+            if ((activity as Activity_Home3012).intcheck == 3) {
+                try {
+                    list.addAll(list)
+                } catch (e: Exception) {
+
+                }
+            }
+
             try {
                 adapter?.notifyDataSetChanged()
                // rclGenre?.finishLoading()

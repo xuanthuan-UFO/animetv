@@ -79,6 +79,13 @@ class Fragment_Popular3012 : Fragment() {
                 Log.d("zzz", "onSuccess: " + name + " " + href + " " + img + " " + released)
             }
 
+            if ((activity as Activity_Home3012).intcheck == 3) {
+                try {
+                    list.addAll(list)
+                } catch (e: Exception) {
+
+                }
+            }
 
             try {
                 adapter?.notifyDataSetChanged()

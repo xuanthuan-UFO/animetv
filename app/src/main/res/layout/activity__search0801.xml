@@ -18,7 +18,7 @@
         android:layout_height="wrap_content" >
 
         <TextView
-            android:text="Search"
+            android:text="@string/Search"
             android:textColor="#FFF"
             android:layout_gravity="center"
             android:textSize="18sp"
@@ -41,7 +41,7 @@
             android:background="#FFF"
             android:inputType="text"
             android:padding="10dp"
-            android:hint="Enter name anime"
+            android:hint="@string/Enternameanime"
             android:textColorHint="#000"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -52,7 +52,7 @@
             android:background="@drawable/custom_btn_item_anime"
             android:id="@+id/txt_search"
             android:gravity="center"
-            android:text="Search"
+            android:text="@string/Search"
             android:textColor="#FFF"
             android:layout_width="0dp"
             android:layout_height="match_parent"
